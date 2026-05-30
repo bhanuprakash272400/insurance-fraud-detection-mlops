@@ -1,0 +1,1201 @@
+age,annual_premium,policy_tenure_months,claim_amount,num_claims_last_3yrs,vehicle_age,incident_severity,incident_type,police_report,witness_present,customer_state,channel,claim_status,fraud_reported
+23,49975.4,173,79834.99,0,1.0,Total Loss,Fire,Yes,No,KA,Agent,Closed,0
+62,31969.79,96,156681.04,2,4.0,Minor,Fire,Yes,No,AP,Agent,Open,1
+55,39361.45,116,69038.62,0,14.0,Major,,No,Yes,MH,Agent,Closed,1
+43,6080.94,109,1000.0,3,0.0,Minor,Natural Disaster,No,No,KA,Branch,Under Review,0
+42,21123.83,180,107700.01,1,2.0,Minor,Theft,Yes,Yes,AP,Agent,Closed,0
+66,31474.65,133,53544.02,0,13.0,Minor,Theft,Yes,Yes,KA,Online,Closed,0
+22,22134.4,22,86918.4,1,8.0,Minor,Collision,Yes,No,TS,Branch,Closed,0
+57,43572.76,13,81098.29,1,0.0,Minor,Collision,Yes,Yes,KA,Online,Closed,0
+29,58967.56,74,72683.32,0,7.0,Minor,Collision,No,No,TN,Agent,Closed,0
+23,20880.62,93,120565.33,1,11.0,Minor,Fire,No,No,TS,Agent,Under Review,0
+48,24950.44,121,16021.08,1,5.0,Minor,Theft,No,Yes,TN,Agent,Closed,0
+73,37825.38,87,61734.36,1,6.0,Minor,Collision,No,Yes,TN,Branch,Closed,0
+59,54333.39,93,115781.71,0,10.0,Total Loss,,Yes,No,DL,Online,Closed,1
+61,20331.51,166,57366.19,1,9.0,Minor,,No,Yes,MH,Online,Closed,0
+58,37988.43,61,12603.7,1,14.0,Major,Collision,Yes,Yes,KA,Online,Under Review,0
+62,56855.59,89,115084.99,0,3.0,Minor,Natural Disaster,Yes,No,DL,Online,Under Review,1
+47,15178.89,101,135539.26,0,4.0,Minor,Collision,No,Yes,AP,Online,Closed,1
+25,19627.17,85,82975.22,2,2.0,Minor,Collision,Yes,No,KA,Agent,Closed,1
+65,29916.72,175,1000.0,1,10.0,Minor,Collision,No,No,DL,Agent,Closed,0
+43,28752.94,174,116768.64,1,8.0,Minor,Collision,No,Yes,AP,Agent,Under Review,1
+46,44751.22,93,10305.05,2,5.0,Major,Theft,No,No,TN,Online,Closed,0
+39,37899.92,82,98895.97,0,11.0,Minor,Natural Disaster,No,No,KA,Branch,Closed,1
+28,13700.46,107,45064.13,0,6.0,Major,Theft,Yes,No,DL,Online,Under Review,0
+70,41184.92,33,32807.23,0,3.0,Minor,Theft,Yes,Yes,TN,Online,Under Review,0
+62,,77,65114.05,2,8.0,Minor,Collision,No,No,TS,Branch,Closed,0
+54,50293.37,40,76751.61,2,6.0,Minor,Theft,No,Yes,TN,Agent,Closed,1
+40,27468.95,26,56010.63,0,6.0,Total Loss,Collision,No,No,DL,Agent,Closed,1
+64,27360.62,18,111491.65,1,7.0,Minor,Collision,Yes,Yes,MH,Branch,Under Review,0
+49,41493.58,106,64926.88,2,14.0,Minor,Natural Disaster,Yes,No,TS,Branch,Closed,0
+43,,1,129108.59,5,3.0,Minor,Collision,Yes,Yes,AP,Online,Closed,1
+43,40377.19,117,97652.79,3,4.0,Minor,Collision,No,No,TS,Agent,Closed,0
+30,14772.83,78,53609.93,2,9.0,Total Loss,Collision,No,No,AP,Branch,Closed,0
+23,,66,46032.71,3,0.0,Major,Fire,No,No,DL,Online,Open,1
+49,22588.3,139,10862.67,4,2.0,Minor,Collision,Yes,Yes,MH,Online,Closed,0
+68,37823.31,97,98082.99,1,,Total Loss,Collision,Yes,No,KA,Agent,Open,1
+21,17915.19,133,69043.56,1,8.0,Major,Fire,Yes,No,MH,Online,Closed,0
+66,40355.87,128,1000.0,2,10.0,Minor,Collision,Yes,No,TN,Branch,Under Review,0
+65,25320.81,6,,0,1.0,Minor,Natural Disaster,Yes,No,TN,Branch,Closed,0
+33,19608.38,39,44453.47,0,,Minor,Collision,No,Yes,AP,Online,Closed,1
+54,43565.84,103,155905.49,2,7.0,Minor,Theft,Yes,No,TN,Online,Under Review,1
+27,37899.73,176,8374.96,1,2.0,Minor,Natural Disaster,Yes,Yes,DL,Online,Open,0
+61,27632.28,28,20139.21,1,4.0,Minor,Collision,No,Yes,DL,Online,Under Review,0
+57,52414.15,20,134948.63,0,3.0,Total Loss,Theft,No,Yes,KA,Agent,Open,1
+38,29712.17,170,146054.34,0,7.0,Total Loss,Collision,Yes,No,TN,Agent,Closed,0
+21,35385.29,175,51475.77,1,7.0,Minor,Fire,Yes,No,AP,Agent,Closed,0
+73,38226.96,31,56556.14,2,6.0,Minor,Natural Disaster,No,No,MH,Online,Closed,0
+43,27564.01,73,112730.59,0,7.0,Minor,Theft,No,Yes,TS,Agent,Closed,1
+68,40653.64,113,1000.0,0,14.0,Minor,Natural Disaster,No,No,MH,Agent,Closed,0
+56,,36,1246.28,1,,Minor,Theft,Yes,No,KA,Branch,Closed,0
+62,30060.34,59,72367.0,2,7.0,Minor,Theft,Yes,No,TS,Online,Open,1
+61,,72,154745.08,0,15.0,Minor,Collision,No,Yes,TN,Agent,Under Review,1
+29,22512.97,116,65392.15,0,13.0,Minor,Theft,Yes,No,TN,Agent,Closed,0
+38,6046.64,56,89542.16,2,13.0,Minor,Natural Disaster,Yes,No,MH,Online,Closed,0
+44,54331.24,75,136020.52,4,3.0,Minor,Theft,No,No,KA,Agent,Open,0
+46,65591.94,53,179809.81,3,7.0,Major,Collision,Yes,No,KA,Online,Closed,1
+20,30136.77,137,59041.82,0,5.0,Minor,Collision,No,Yes,AP,Agent,Closed,0
+49,11757.94,28,,2,1.0,Minor,Fire,No,No,MH,Agent,Closed,0
+26,31274.19,42,166992.48,2,1.0,Minor,Natural Disaster,,Yes,TS,Online,Closed,1
+60,31565.32,45,16501.03,3,9.0,Minor,Collision,No,No,KA,Agent,Open,0
+56,32720.91,164,131241.15,1,6.0,Minor,Collision,Yes,No,MH,Online,Closed,0
+70,21639.34,171,39175.8,0,13.0,Minor,Collision,No,Yes,AP,Agent,Closed,0
+60,41954.73,91,89611.26,1,10.0,Minor,Collision,No,No,MH,Agent,Open,0
+38,,29,74082.14,0,1.0,Minor,Natural Disaster,No,Yes,TN,Agent,Closed,0
+73,17067.13,137,41889.48,2,13.0,Minor,Collision,Yes,Yes,DL,Branch,Closed,0
+41,43390.36,89,40760.41,2,7.0,Minor,Collision,No,No,TN,Agent,Closed,0
+36,59632.22,153,97438.65,0,9.0,Minor,Collision,No,No,DL,Agent,Open,0
+69,37063.52,65,129799.27,0,15.0,Minor,Collision,No,No,AP,Agent,Open,0
+39,30952.1,180,79161.87,1,10.0,Minor,Natural Disaster,No,No,MH,Online,Closed,1
+22,,146,88155.09,0,0.0,Minor,,Yes,Yes,TS,Agent,Closed,0
+44,42383.08,41,110702.83,0,2.0,Minor,Collision,No,No,KA,Branch,Closed,0
+63,14231.94,131,41277.16,4,6.0,Minor,Collision,Yes,No,KA,Online,Closed,0
+28,36972.69,52,118286.16,0,0.0,Minor,Natural Disaster,Yes,Yes,AP,Online,Closed,0
+44,30314.43,63,121870.44,1,2.0,Minor,Natural Disaster,No,No,TN,Online,Under Review,1
+25,57173.9,46,202163.18,1,12.0,Minor,Collision,,No,TS,Agent,Closed,0
+57,32909.93,123,68075.31,1,2.0,Minor,Theft,No,Yes,KA,Branch,Closed,1
+45,55014.65,48,64386.32,3,2.0,Minor,Collision,Yes,No,TS,Branch,Closed,1
+36,21755.11,115,119603.46,1,8.0,Major,Theft,Yes,No,TN,Agent,Open,1
+30,42047.11,105,121859.69,2,1.0,Major,Collision,Yes,Yes,TN,Online,Closed,0
+50,38832.8,136,60921.08,2,4.0,Total Loss,Fire,Yes,No,AP,Agent,Under Review,1
+56,24571.43,179,66857.68,1,15.0,Minor,Natural Disaster,No,Yes,TS,Online,Closed,0
+71,37128.75,2,109350.89,1,10.0,Minor,Collision,Yes,Yes,AP,Online,Open,0
+42,49550.23,179,47758.71,0,15.0,Minor,Collision,Yes,No,AP,Branch,Closed,0
+27,31114.5,20,66525.97,2,5.0,Minor,Collision,Yes,No,AP,Agent,Under Review,1
+65,,95,89031.67,1,9.0,Minor,Collision,Yes,Yes,AP,Online,Closed,1
+53,34789.25,62,129817.24,2,3.0,Minor,Collision,No,No,AP,Online,Closed,1
+57,24170.92,116,57793.06,2,6.0,Minor,Collision,No,No,DL,Agent,Under Review,0
+23,30891.91,130,2092.7,2,2.0,Minor,Natural Disaster,Yes,No,TS,Online,Closed,0
+35,34020.95,155,1000.0,0,13.0,Minor,Collision,Yes,No,AP,Online,Closed,0
+61,14532.17,73,28326.41,1,2.0,Minor,Natural Disaster,Yes,No,MH,Online,Closed,0
+65,15612.1,168,25907.45,1,3.0,Major,,Yes,Yes,TS,Branch,Closed,0
+42,40784.8,59,78042.52,1,7.0,Minor,Collision,No,No,DL,Agent,Closed,1
+63,28727.38,37,31500.39,2,6.0,Minor,Collision,No,No,TS,Agent,Open,0
+65,5000.0,69,53376.03,0,5.0,Total Loss,Natural Disaster,Yes,No,TN,Agent,Closed,0
+40,44418.13,96,50166.14,1,5.0,Minor,Collision,No,No,TS,Agent,Under Review,1
+69,38268.44,121,65177.15,1,4.0,Minor,Collision,Yes,Yes,MH,Agent,Closed,0
+34,26433.5,150,144512.69,2,14.0,Minor,Fire,Yes,Yes,TN,Branch,Closed,0
+31,19198.04,41,114787.64,0,9.0,Minor,Theft,Yes,No,TN,Agent,Closed,0
+56,45029.69,55,85725.82,1,14.0,Minor,Theft,Yes,No,TS,Online,Open,0
+54,39192.21,169,64253.82,1,15.0,Major,Collision,,No,DL,Agent,Closed,0
+25,63591.23,80,65504.53,0,10.0,Major,Collision,No,No,AP,Agent,Open,0
+65,40042.26,44,99748.59,0,13.0,Major,Fire,No,Yes,TS,Branch,Under Review,0
+29,39652.44,178,111287.61,2,1.0,Total Loss,Theft,Yes,Yes,TS,Online,Closed,1
+63,32996.86,81,44157.21,1,15.0,Minor,Theft,No,No,TS,Agent,Under Review,0
+18,44801.31,178,86641.63,1,7.0,Major,Collision,Yes,No,KA,Branch,Closed,0
+63,42501.02,166,1000.0,3,11.0,Minor,Collision,Yes,No,AP,Online,Closed,0
+62,50020.7,164,,0,3.0,Minor,Natural Disaster,Yes,Yes,DL,Agent,Closed,1
+62,28744.12,105,119296.72,3,1.0,Major,Theft,Yes,No,DL,Online,Closed,0
+55,,144,72396.91,0,14.0,Major,Collision,Yes,No,MH,Online,Closed,0
+44,29250.76,173,166743.71,2,7.0,Major,Natural Disaster,No,Yes,KA,Agent,Under Review,1
+58,44489.62,49,45344.27,2,2.0,Minor,Theft,No,Yes,AP,Branch,Closed,0
+33,52980.49,7,94784.82,1,10.0,Minor,Collision,Yes,No,KA,Online,Open,1
+62,29493.91,58,83387.89,0,0.0,Minor,Collision,No,No,TN,Online,Closed,0
+49,29902.72,115,80486.6,0,7.0,Minor,Theft,Yes,No,DL,Branch,Closed,0
+44,38768.93,99,79855.5,3,11.0,Major,Collision,No,No,AP,Online,Closed,1
+46,32050.86,15,89819.73,3,11.0,Major,Theft,Yes,No,TN,Agent,Under Review,0
+50,46424.64,101,,2,7.0,Minor,Theft,Yes,Yes,MH,Agent,Closed,1
+20,7978.67,32,146998.13,2,5.0,Minor,Collision,No,No,MH,Agent,Closed,0
+25,25079.54,91,84898.74,1,13.0,Minor,Natural Disaster,Yes,No,TS,Agent,Closed,0
+31,25611.0,104,121689.22,2,2.0,Minor,,Yes,No,MH,Agent,Open,1
+24,7155.73,115,,0,1.0,Minor,Collision,,No,MH,Online,Closed,0
+43,23436.34,75,119468.0,1,2.0,Major,Theft,Yes,No,TS,Agent,Open,0
+56,24018.13,74,50710.38,1,12.0,Minor,Theft,Yes,Yes,DL,Agent,Closed,1
+55,32586.74,123,134079.7,1,7.0,Total Loss,Collision,No,No,TN,Online,Closed,1
+44,48355.59,135,184478.84,1,0.0,Minor,Theft,No,No,AP,Agent,Under Review,1
+66,32059.27,146,,2,2.0,Major,Natural Disaster,,Yes,TS,Online,Open,0
+50,22630.24,61,1000.0,1,0.0,Minor,Fire,Yes,Yes,MH,Online,Closed,0
+22,34316.55,77,60336.72,1,13.0,Minor,Fire,No,No,AP,Agent,Under Review,0
+61,47590.08,60,140434.38,1,7.0,Minor,Collision,No,Yes,AP,Agent,Closed,1
+50,23288.49,95,109888.46,1,1.0,Minor,Collision,No,Yes,KA,Online,Closed,0
+54,24073.1,23,96201.11,0,3.0,Major,Theft,Yes,No,TS,Agent,Closed,1
+50,41702.59,78,130390.08,0,9.0,Minor,Collision,Yes,No,KA,Online,Under Review,0
+49,,34,106800.4,0,9.0,Minor,Fire,Yes,No,AP,Online,Closed,0
+23,42769.82,96,139797.63,1,13.0,Minor,Collision,Yes,No,AP,Online,Under Review,1
+49,34836.24,154,126374.07,1,0.0,Minor,Collision,Yes,No,MH,Agent,Open,0
+63,43419.96,178,153476.52,0,1.0,Minor,Collision,Yes,No,AP,Branch,Under Review,0
+35,22579.06,81,101145.82,1,0.0,Minor,Collision,No,Yes,KA,Agent,Closed,1
+52,34854.98,11,125736.67,3,6.0,Minor,Collision,Yes,No,TS,Branch,Closed,0
+19,32471.72,42,71179.28,0,11.0,Minor,Theft,No,Yes,TN,Branch,Open,1
+37,20409.31,19,57934.26,3,10.0,Major,Theft,Yes,No,AP,Agent,Under Review,1
+42,16238.26,137,161804.54,1,3.0,Major,Collision,Yes,No,TN,Agent,Under Review,1
+74,43228.99,178,94729.21,0,10.0,Minor,Collision,No,No,KA,Agent,Closed,0
+30,30788.57,100,121219.63,1,10.0,Minor,Fire,No,No,DL,Branch,Closed,1
+33,22732.64,32,90568.3,1,3.0,Major,Collision,Yes,No,TN,Agent,Closed,1
+41,33845.85,4,58606.8,1,11.0,Minor,Collision,No,No,TS,Branch,Open,0
+74,48536.23,176,85494.23,1,6.0,Total Loss,Collision,Yes,Yes,MH,Online,Under Review,0
+66,7631.15,57,149619.73,1,0.0,Minor,Theft,Yes,No,AP,Online,Open,1
+19,17040.34,21,109985.8,1,6.0,Minor,Natural Disaster,No,Yes,DL,Online,Under Review,1
+31,23925.36,32,7983.71,0,12.0,Minor,Theft,No,No,AP,Agent,Under Review,1
+64,52534.15,46,684646.72,0,11.0,Minor,Natural Disaster,Yes,No,DL,Agent,Open,0
+21,38391.04,119,165203.22,0,4.0,Minor,Natural Disaster,No,No,AP,Branch,Closed,1
+66,44207.81,161,75379.14,0,12.0,Minor,Collision,No,Yes,KA,Agent,Under Review,1
+34,21318.07,50,,2,6.0,Minor,Collision,No,No,DL,Branch,Under Review,0
+70,21565.57,124,170187.2,1,7.0,Major,Collision,Yes,No,DL,Branch,Closed,1
+34,40373.76,12,115707.66,0,1.0,Minor,Collision,Yes,Yes,DL,Agent,Open,0
+42,35699.29,2,81849.42,1,15.0,Minor,,Yes,No,KA,Online,Open,0
+55,41584.87,10,68286.2,0,13.0,Minor,Collision,No,No,DL,Agent,Under Review,0
+25,,167,133705.84,4,,Minor,Collision,Yes,Yes,AP,Online,Closed,0
+49,38337.72,105,60610.75,0,8.0,Minor,Collision,No,No,DL,Branch,Closed,0
+46,36897.43,145,136671.54,1,12.0,Minor,Theft,Yes,No,DL,Branch,Closed,1
+62,44333.21,4,109398.79,0,8.0,Minor,Theft,No,Yes,TN,Branch,Closed,0
+74,44684.1,5,96010.69,0,3.0,Minor,Natural Disaster,No,No,AP,Agent,Open,0
+55,,153,91548.17,1,15.0,Minor,Collision,No,Yes,TN,Online,Closed,0
+41,8032.78,19,77126.44,0,,Minor,Collision,No,No,TN,Agent,Under Review,0
+41,47020.94,28,132053.81,1,5.0,Major,Natural Disaster,No,No,TS,Branch,Closed,1
+41,49252.7,94,46059.57,1,5.0,Minor,Theft,Yes,No,AP,Agent,Open,0
+64,22752.52,110,12013.37,1,14.0,Minor,Theft,No,No,TS,Agent,Under Review,0
+36,12681.98,42,112649.81,1,8.0,Total Loss,Collision,No,No,MH,Agent,Closed,1
+27,36188.42,81,113405.72,0,11.0,Minor,Collision,Yes,No,TN,Agent,Closed,1
+37,46170.06,122,106610.85,1,14.0,Minor,Natural Disaster,Yes,No,KA,Agent,Under Review,0
+19,56571.13,80,103347.78,0,14.0,Major,Theft,No,No,MH,Agent,Closed,1
+24,41195.57,69,70575.68,1,13.0,Minor,Theft,Yes,No,TN,Branch,Under Review,0
+23,30539.4,13,,2,14.0,Major,Collision,Yes,Yes,TN,Online,Under Review,1
+61,24282.43,82,82949.88,1,15.0,Minor,Collision,Yes,Yes,TS,Agent,Closed,0
+59,35137.42,145,63079.89,1,15.0,Total Loss,Collision,Yes,No,TN,Branch,Closed,0
+57,31408.82,113,70964.89,0,10.0,Total Loss,Fire,Yes,No,TN,Agent,Closed,0
+44,22819.19,161,175928.79,1,2.0,Minor,Collision,,No,TN,Online,Closed,1
+58,59585.07,23,6926.08,4,1.0,Major,Collision,No,No,TS,Agent,Closed,0
+27,56422.02,2,107490.46,2,12.0,Minor,Collision,Yes,No,DL,Online,Closed,0
+69,48632.58,99,9440.03,2,5.0,Minor,,Yes,No,DL,Agent,Under Review,0
+46,23949.8,33,80129.5,1,12.0,Minor,Collision,No,No,MH,Agent,Closed,1
+71,45260.23,107,684646.72,2,14.0,Minor,Collision,No,No,DL,Online,Under Review,1
+26,42675.52,163,1000.0,2,10.0,Minor,Theft,Yes,Yes,TS,Online,Closed,0
+46,40310.55,61,102506.69,2,12.0,Minor,Fire,Yes,No,AP,Online,Closed,0
+57,49995.98,99,67898.29,0,4.0,Minor,Theft,No,Yes,MH,Agent,Open,0
+46,42624.45,123,,0,6.0,Minor,Natural Disaster,No,No,TN,Online,Closed,0
+43,43880.17,28,122780.56,1,15.0,Major,Collision,Yes,No,MH,Online,Closed,1
+27,42642.88,162,149575.28,3,13.0,Minor,Natural Disaster,Yes,No,DL,Agent,Open,0
+39,39089.5,37,152055.6,2,3.0,Major,Natural Disaster,No,No,AP,Agent,Under Review,1
+31,13596.67,146,101153.04,3,14.0,Major,Collision,No,No,TS,Agent,Closed,1
+35,36003.45,119,87072.62,1,7.0,Major,Theft,Yes,Yes,MH,Agent,Closed,0
+56,28325.7,26,144767.05,1,13.0,Minor,Collision,No,No,MH,Agent,Under Review,1
+53,19641.91,131,160707.26,1,8.0,Major,,No,Yes,TN,Agent,Closed,0
+52,55181.8,36,136010.59,2,9.0,Major,Collision,No,No,DL,Online,Closed,0
+38,55747.94,108,42630.81,1,2.0,Major,Collision,No,No,TS,Online,Closed,0
+72,51310.65,173,94060.52,1,5.0,Major,Natural Disaster,No,No,KA,Branch,Open,0
+22,38062.56,172,104778.23,0,,Minor,Collision,Yes,No,KA,Online,Closed,0
+37,51207.5,157,3567.24,1,13.0,Minor,Theft,Yes,No,MH,Agent,Closed,0
+24,35144.64,89,106121.23,1,1.0,Major,Collision,No,No,AP,Branch,Closed,0
+37,37433.57,101,187284.63,1,1.0,Minor,Collision,No,Yes,KA,Online,Closed,0
+72,21878.34,55,113797.13,0,11.0,Major,Collision,Yes,No,TS,Online,Open,0
+38,39763.9,166,151303.59,1,7.0,Minor,,Yes,No,TS,Agent,Under Review,0
+69,209300.39999999997,86,93231.16,2,13.0,Minor,Theft,No,No,KA,Online,Closed,1
+46,19368.17,139,81705.18,1,1.0,Minor,Natural Disaster,No,No,AP,Online,Closed,0
+57,34385.63,65,102157.21,0,5.0,Minor,Collision,Yes,Yes,AP,Online,Under Review,1
+44,34043.25,134,48287.8,0,0.0,Total Loss,Natural Disaster,Yes,Yes,MH,Branch,Closed,0
+33,56570.73,41,41630.12,2,11.0,Minor,Theft,Yes,No,TS,Branch,Closed,0
+61,45730.56,133,141983.71,0,13.0,Minor,Theft,No,Yes,KA,Branch,Closed,1
+73,35137.35,9,146755.41,1,2.0,Minor,Collision,No,No,TS,Online,Under Review,1
+33,37985.45,19,40400.22,3,5.0,Total Loss,Collision,Yes,No,DL,Branch,Open,0
+62,35530.55,64,128559.95,2,13.0,Minor,Natural Disaster,Yes,Yes,KA,Branch,Open,1
+32,32565.03,87,81086.8,1,,Minor,Theft,No,No,DL,Agent,Under Review,1
+58,22010.87,129,100291.39,3,15.0,Minor,,Yes,No,KA,Online,Open,0
+62,33187.38,65,105709.84,1,14.0,Minor,Fire,No,No,TS,Agent,Closed,0
+43,26046.82,4,129745.77,2,2.0,Total Loss,Collision,Yes,No,AP,Agent,Closed,1
+60,19996.21,59,88722.32,0,2.0,Total Loss,Fire,Yes,No,MH,Agent,Closed,0
+33,41134.66,80,148457.29,2,11.0,Minor,Collision,Yes,No,DL,Online,Under Review,1
+22,39695.18,98,98923.58,4,0.0,Minor,Natural Disaster,Yes,No,DL,Agent,Under Review,1
+23,13559.51,116,113088.29,1,8.0,Minor,Collision,No,No,DL,Agent,Open,0
+43,33527.78,45,47503.18,1,1.0,Minor,Collision,No,No,MH,Agent,Closed,0
+69,46948.42,110,182139.66,4,8.0,Minor,Theft,Yes,Yes,TN,Online,Closed,0
+25,47710.68,114,106142.12,1,5.0,Minor,Collision,Yes,Yes,AP,Branch,Closed,0
+43,47310.04,140,117084.88,0,11.0,Minor,Natural Disaster,No,No,MH,Branch,Under Review,0
+58,35466.96,94,12631.64,3,14.0,Major,Theft,No,No,TN,Agent,Closed,1
+29,24859.46,146,47978.41,1,7.0,Minor,Collision,Yes,Yes,TS,Agent,Closed,0
+59,21995.61,40,140704.77,0,,Minor,Collision,Yes,Yes,TS,Branch,Under Review,0
+35,39135.26,129,97910.1,1,9.0,Minor,Natural Disaster,No,No,DL,Agent,Under Review,1
+64,39551.36,9,1000.0,0,15.0,Minor,Theft,Yes,No,KA,Branch,Open,0
+51,,19,131723.05,0,3.0,Minor,Natural Disaster,No,No,KA,Online,Closed,0
+49,48199.76,156,60529.77,1,3.0,Minor,Collision,Yes,Yes,KA,Online,Closed,0
+28,33413.26,86,148509.26,1,6.0,Minor,Natural Disaster,Yes,No,TS,Agent,Open,1
+44,20069.53,112,81047.39,1,11.0,Major,Collision,No,No,TS,Agent,Closed,0
+66,31170.72,109,94211.8,1,13.0,Major,Theft,Yes,No,TS,Online,Under Review,0
+19,,126,138052.96,0,4.0,Major,Collision,Yes,Yes,TN,Agent,Open,0
+61,32575.0,45,44612.82,1,1.0,Minor,Collision,Yes,No,TN,Branch,Open,0
+46,28065.27,33,40321.89,1,9.0,Minor,Natural Disaster,No,No,AP,Online,Closed,0
+59,38034.62,8,76157.57,1,9.0,Minor,,No,No,KA,Agent,Closed,0
+55,28952.51,156,122222.78,2,5.0,Minor,Collision,Yes,No,MH,Agent,Open,0
+42,27463.21,41,25110.52,0,2.0,Total Loss,Natural Disaster,,No,KA,Online,Closed,0
+35,38737.43,104,9938.44,0,13.0,Total Loss,Collision,Yes,Yes,MH,Agent,Under Review,0
+53,30176.09,82,122067.44,1,13.0,Minor,Collision,,No,AP,Online,Closed,0
+25,37929.25,30,57865.98,4,11.0,Minor,Collision,Yes,No,DL,Online,Closed,0
+51,38278.45,75,67349.83,2,9.0,Minor,Collision,Yes,Yes,MH,Branch,Open,0
+23,21326.85,15,1443.53,4,4.0,Minor,Collision,Yes,Yes,AP,Agent,Closed,0
+55,29225.11,32,54445.93,3,6.0,Total Loss,Collision,No,No,MH,Agent,Under Review,0
+53,52253.32,26,84659.47,0,1.0,Minor,Collision,Yes,No,KA,Branch,Closed,0
+22,21055.05,149,126867.0,0,3.0,Minor,Fire,No,No,TN,Online,Closed,0
+61,,103,50294.64,0,7.0,Minor,,No,Yes,AP,Online,Closed,0
+41,12657.86,167,159581.93,1,6.0,Minor,Theft,Yes,Yes,DL,Online,Closed,0
+62,35349.32,79,54194.98,3,1.0,Minor,Collision,Yes,Yes,MH,Branch,Closed,0
+20,35371.01,37,54260.87,1,15.0,Major,Fire,Yes,No,AP,Agent,Under Review,0
+28,33588.67,110,154181.09,1,4.0,Minor,Collision,Yes,No,TN,Agent,Closed,0
+46,49570.28,168,94515.71,0,8.0,Minor,Fire,No,No,DL,Branch,Closed,0
+28,5000.0,96,60158.89,0,7.0,Minor,Theft,No,No,TS,Agent,Open,0
+36,39751.21,4,78019.01,1,7.0,Minor,Collision,No,Yes,KA,Branch,Closed,0
+55,53737.26,55,145888.31,3,13.0,Minor,Collision,Yes,No,TN,Agent,Closed,1
+26,21466.63,167,150979.13,0,11.0,Minor,,Yes,No,DL,Agent,Under Review,0
+56,30442.32,94,48244.31,1,13.0,Minor,Natural Disaster,Yes,No,DL,Agent,Closed,0
+23,25965.3,172,83090.48,1,6.0,Minor,Theft,No,Yes,DL,Branch,Under Review,0
+27,24267.85,92,89057.06,1,4.0,Major,Natural Disaster,Yes,No,KA,Online,Closed,0
+51,31084.86,3,40619.2,1,6.0,Minor,Natural Disaster,Yes,Yes,MH,Agent,Closed,0
+63,52129.82,158,82494.17,1,,Total Loss,Collision,No,Yes,KA,Agent,Under Review,0
+27,57048.64,138,85239.53,2,5.0,Minor,Fire,Yes,Yes,MH,Agent,Closed,0
+35,30968.73,129,136309.43,0,7.0,Minor,Collision,Yes,Yes,DL,Agent,Closed,0
+70,57860.72,175,139334.13,1,2.0,Minor,Collision,No,Yes,AP,Online,Under Review,0
+74,35426.92,36,70185.58,0,9.0,Minor,Collision,Yes,No,TN,Agent,Under Review,1
+51,56044.29,164,75372.11,2,11.0,Minor,Natural Disaster,Yes,Yes,MH,Agent,Closed,0
+43,33880.42,42,,1,8.0,Minor,Theft,,No,KA,Agent,Closed,0
+37,36572.69,175,58666.52,1,,Major,Collision,Yes,No,TS,Online,Closed,0
+52,39385.69,35,111488.81,2,15.0,Minor,Collision,No,No,TN,Online,Under Review,1
+51,73146.24,100,81044.21,0,14.0,Minor,,Yes,No,AP,Online,Closed,1
+34,45215.43,143,41377.06,2,1.0,Total Loss,Fire,No,No,MH,Online,Closed,0
+19,26512.83,15,41942.35,3,14.0,Minor,Natural Disaster,Yes,Yes,DL,Branch,Closed,0
+26,46627.97,13,150117.64,2,5.0,Total Loss,Collision,,No,AP,Online,Open,0
+72,30658.01,153,77961.03,1,7.0,Major,Collision,,No,TN,Branch,Closed,0
+41,29123.0,11,158815.93,0,6.0,Major,Theft,Yes,No,DL,Online,Open,0
+45,45903.22,111,61886.37,1,,Major,,No,No,AP,Agent,Open,0
+44,35373.03,169,98104.23,0,14.0,Minor,Collision,No,No,TN,Branch,Closed,0
+62,38342.91,111,192670.45,0,10.0,Minor,Collision,No,No,DL,Online,Closed,1
+21,35167.82,87,37417.6,2,15.0,Major,Collision,Yes,No,DL,Online,Closed,0
+22,39039.0,76,1000.0,0,15.0,Major,Collision,No,No,TN,Agent,Closed,0
+33,40099.59,115,,2,6.0,Minor,Natural Disaster,Yes,No,KA,Agent,Closed,1
+45,11756.4,103,47793.59,2,11.0,Minor,Collision,No,No,KA,Branch,Closed,1
+56,42998.87,91,84068.21,2,8.0,Minor,Collision,No,No,TS,Agent,Closed,0
+45,23215.77,28,58633.68,2,7.0,Minor,,Yes,No,TN,Agent,Open,1
+43,17692.41,120,97067.33,3,11.0,Minor,Natural Disaster,No,No,TS,Agent,Closed,0
+71,34299.07,134,42225.87,1,11.0,Major,Collision,No,Yes,MH,Online,Open,0
+27,36007.77,128,76902.7,0,14.0,Major,Collision,No,Yes,KA,Branch,Closed,1
+50,26677.93,14,105241.69,2,12.0,Minor,Theft,Yes,No,DL,Online,Closed,0
+48,44972.38,127,39626.1,1,9.0,Minor,Collision,Yes,Yes,KA,Branch,Closed,0
+44,18893.9,132,53496.22,1,14.0,Minor,Theft,Yes,No,KA,Agent,Closed,0
+64,30116.68,34,69367.77,0,1.0,Minor,Collision,,No,MH,Agent,Closed,0
+33,27981.51,153,20703.31,1,12.0,Minor,Collision,No,No,TS,Agent,Closed,0
+72,34440.95,95,65984.76,1,6.0,Minor,,Yes,No,DL,Agent,Open,0
+36,38346.37,86,90345.84,2,6.0,Minor,,No,No,TS,Online,Under Review,1
+49,22905.28,131,67020.3,0,12.0,Minor,,No,No,AP,Agent,Closed,0
+47,43691.39,92,72788.06,0,4.0,Minor,Collision,No,Yes,MH,Agent,Open,0
+66,35756.03,99,84104.42,2,14.0,Minor,Collision,Yes,No,MH,Branch,Closed,0
+43,12296.64,57,55491.54,1,7.0,Minor,Fire,Yes,Yes,MH,Online,Open,0
+34,11496.9,168,116097.82,2,5.0,Minor,Collision,No,No,AP,Agent,Closed,1
+19,34852.17,175,149619.02,2,5.0,Minor,Theft,Yes,No,DL,Online,Open,0
+38,32348.39,24,64102.88,0,6.0,Minor,Theft,Yes,No,TN,Online,Closed,0
+65,209300.39999999997,132,106833.92,0,15.0,Minor,Collision,No,No,AP,Branch,Under Review,0
+18,34664.21,5,74217.23,1,1.0,Minor,Natural Disaster,Yes,No,TN,Online,Open,0
+69,37706.72,67,101446.93,3,8.0,Total Loss,Natural Disaster,No,No,TN,Agent,Closed,1
+48,46371.8,175,155460.08,0,13.0,Minor,Collision,Yes,No,TN,Agent,Closed,0
+25,21666.74,32,107889.68,1,7.0,Minor,Collision,Yes,No,TS,Agent,Under Review,0
+35,20936.34,68,5196.35,4,9.0,Minor,Collision,No,Yes,MH,Online,Closed,0
+49,21880.11,40,105429.8,2,5.0,Major,Collision,Yes,No,AP,Online,Closed,0
+35,38467.0,132,140478.87,0,2.0,Major,Collision,No,Yes,DL,Online,Open,1
+24,49939.37,84,75028.17,0,10.0,Minor,Natural Disaster,No,No,AP,Online,Closed,1
+55,29823.93,107,129803.57,1,14.0,Minor,Natural Disaster,Yes,No,AP,Agent,Closed,0
+56,5000.0,170,53944.8,3,8.0,Minor,Collision,Yes,Yes,KA,Agent,Closed,0
+24,14552.09,94,18150.74,1,6.0,Minor,Collision,Yes,No,DL,Agent,Open,0
+34,25003.56,133,91352.61,2,2.0,Minor,Collision,No,Yes,KA,Agent,Closed,0
+31,28307.25,18,5958.55,0,15.0,Minor,Collision,No,Yes,KA,Online,Closed,0
+55,30099.34,39,74210.3,0,13.0,Total Loss,Collision,Yes,Yes,DL,Branch,Closed,0
+59,35462.97,171,142907.9,2,14.0,Major,Natural Disaster,Yes,Yes,TS,Agent,Closed,0
+59,31259.04,155,1000.0,0,5.0,Minor,,Yes,No,KA,Online,Under Review,0
+71,47592.08,119,27422.64,1,10.0,Total Loss,Collision,Yes,No,AP,Agent,Under Review,0
+61,26887.79,69,38558.55,4,6.0,Minor,Theft,Yes,No,TS,Online,Closed,0
+36,24652.18,36,82150.61,1,3.0,Minor,Theft,Yes,No,KA,Agent,Closed,1
+24,40746.51,154,68542.74,0,3.0,Major,Fire,No,No,MH,Online,Open,0
+53,16572.3,142,147961.14,1,6.0,Minor,Collision,Yes,No,MH,Agent,Under Review,0
+70,39676.3,44,127945.67,3,8.0,Minor,Collision,Yes,No,KA,Agent,Closed,0
+73,36230.64,107,107287.28,2,,Minor,Theft,No,Yes,TS,Online,Closed,0
+31,33230.69,112,91553.36,3,11.0,Minor,Collision,No,No,TN,Agent,Closed,1
+31,54059.31,86,102695.34,0,7.0,Minor,Theft,Yes,No,MH,Online,Closed,0
+20,27533.51,167,46210.79,1,14.0,Minor,Collision,No,Yes,AP,Agent,Under Review,1
+26,59723.58,23,123574.47,0,4.0,Minor,Theft,Yes,No,TN,Branch,Under Review,0
+49,32294.82,47,34958.01,1,0.0,Minor,Fire,No,No,TS,Agent,Closed,0
+49,19675.8,18,122591.96,0,4.0,Minor,Collision,Yes,No,AP,Online,Closed,0
+39,35839.03,125,138376.41,1,15.0,Minor,Collision,No,No,AP,Branch,Under Review,0
+35,22085.06,116,94488.91,1,5.0,Minor,Fire,Yes,No,DL,Online,Closed,0
+65,25978.93,178,77070.41,1,11.0,Minor,,,No,TS,Agent,Closed,0
+44,39764.4,98,103013.95,1,,Minor,Theft,No,No,AP,Online,Closed,1
+64,41666.99,28,1000.0,1,4.0,Major,Theft,Yes,Yes,TN,Agent,Closed,0
+72,27533.99,82,98601.62,0,10.0,Minor,Collision,Yes,No,TS,Online,Closed,0
+36,46848.86,16,79899.07,3,3.0,Major,Fire,No,No,KA,Agent,Closed,1
+29,48890.09,121,,0,5.0,Major,Collision,Yes,No,DL,Online,Under Review,0
+72,52235.62,122,116793.96,2,4.0,Minor,Theft,No,No,KA,Branch,Under Review,0
+54,41352.96,155,81635.4,2,10.0,Major,Collision,No,No,MH,Agent,Closed,0
+34,51361.14,62,33690.69,1,14.0,Major,Collision,Yes,No,AP,Agent,Closed,0
+53,12430.42,56,78636.88,0,4.0,Minor,Collision,Yes,Yes,MH,Agent,Closed,0
+47,31185.12,13,88040.0,1,4.0,Minor,Natural Disaster,No,Yes,AP,Online,Closed,1
+69,24595.94,75,90172.03,3,13.0,Major,Natural Disaster,Yes,Yes,KA,Agent,Closed,0
+32,36430.71,86,92286.37,0,7.0,Total Loss,Fire,No,No,DL,Online,Under Review,0
+74,28142.61,136,131771.61,1,8.0,Minor,Collision,Yes,Yes,MH,Online,Open,0
+71,33006.11,136,36128.45,3,11.0,Major,Collision,Yes,No,KA,Branch,Closed,0
+28,57586.1,26,92906.52,1,2.0,Major,Fire,Yes,No,KA,Agent,Under Review,0
+27,32963.36,52,143046.84,1,13.0,Major,Theft,Yes,No,TS,Agent,Under Review,1
+48,39965.51,93,6942.48,0,5.0,Total Loss,Collision,No,No,DL,Agent,Closed,0
+20,32212.77,61,93084.1,2,10.0,Minor,Natural Disaster,Yes,No,TS,Online,Closed,1
+35,35908.56,5,58657.97,0,6.0,Minor,Collision,No,No,KA,Agent,Closed,0
+42,35072.2,153,68318.03,1,12.0,Minor,Collision,No,Yes,MH,Agent,Closed,0
+73,40379.89,132,44283.66,0,9.0,Minor,Natural Disaster,Yes,No,AP,Agent,Closed,0
+74,48983.69,94,77370.22,1,2.0,Minor,Collision,Yes,Yes,TS,Online,Closed,0
+26,54768.73,58,167856.5,1,3.0,Major,Collision,No,No,AP,Branch,Closed,0
+68,38715.44,152,28100.63,0,14.0,Major,Theft,No,No,KA,Agent,Closed,0
+23,42074.56,7,32367.55,0,8.0,Minor,Natural Disaster,Yes,Yes,KA,Agent,Closed,0
+60,21189.63,81,26412.94,0,4.0,Minor,Collision,Yes,Yes,TS,Agent,Closed,0
+66,33945.48,145,162733.82,0,2.0,Minor,Fire,No,No,TS,Agent,Closed,1
+68,46283.47,172,64194.71,1,,Minor,Collision,Yes,No,TN,Branch,Closed,0
+30,45391.62,46,83846.24,2,14.0,Minor,Collision,No,No,KA,Online,Closed,1
+68,37539.32,118,66874.77,2,15.0,Minor,Collision,Yes,Yes,MH,Online,Under Review,0
+24,45636.73,35,42500.97,0,6.0,Minor,,No,Yes,KA,Branch,Closed,0
+47,40889.2,21,74418.22,1,3.0,Major,Collision,Yes,No,TN,Online,Closed,0
+44,49403.68,64,195620.96,1,6.0,Minor,Collision,No,No,AP,Agent,Closed,0
+36,38472.31,160,147643.19,1,2.0,Minor,Theft,Yes,Yes,MH,Online,Under Review,1
+19,30731.62,125,46617.8,1,8.0,Minor,Theft,Yes,Yes,DL,Agent,Closed,0
+62,39030.1,89,114140.83,1,10.0,Minor,Theft,Yes,No,TS,Agent,Closed,0
+37,5000.0,51,47581.48,0,15.0,Total Loss,Fire,No,No,DL,Branch,Under Review,0
+55,39594.63,26,5063.46,4,5.0,Major,Collision,Yes,No,TS,Agent,Closed,0
+41,5000.0,49,130877.99,1,3.0,Minor,Collision,Yes,No,DL,Online,Closed,1
+39,,28,137204.18,1,2.0,Minor,Collision,No,No,TN,Agent,Closed,1
+68,,34,132072.35,2,6.0,Minor,Theft,Yes,No,KA,Agent,Under Review,1
+23,209300.39999999997,124,63856.06,2,9.0,Minor,Collision,Yes,Yes,MH,Online,Closed,1
+59,21050.85,24,77495.09,0,1.0,Minor,Collision,No,Yes,DL,Online,Open,0
+60,26454.78,9,,0,12.0,Minor,Collision,No,No,MH,Online,Under Review,1
+39,51446.49,98,102617.32,2,7.0,Minor,Collision,No,No,AP,Agent,Closed,1
+32,29191.64,52,67286.31,1,12.0,Minor,Natural Disaster,Yes,No,AP,Agent,Closed,1
+18,61915.04,82,12141.77,1,,Minor,Theft,Yes,Yes,KA,Online,Closed,0
+71,,26,90124.38,2,,Minor,Collision,No,Yes,AP,Online,Open,0
+72,39896.43,38,133555.43,0,0.0,Minor,Theft,Yes,Yes,MH,Online,Closed,1
+31,54402.49,80,31108.53,3,,Minor,Theft,No,No,KA,Online,Closed,1
+19,36572.33,125,113744.17,1,8.0,Minor,Collision,Yes,No,AP,Branch,Under Review,0
+24,22971.87,75,99919.38,1,13.0,Minor,Collision,No,No,TN,Branch,Closed,0
+21,33683.27,98,118756.67,1,14.0,Minor,Theft,No,No,AP,Agent,Closed,1
+65,34572.67,94,124238.9,0,2.0,Major,Collision,Yes,Yes,MH,Online,Closed,1
+68,,49,53749.06,1,5.0,Total Loss,Collision,Yes,No,DL,Online,Closed,1
+26,31930.02,51,12236.83,2,3.0,Minor,Collision,Yes,Yes,AP,Branch,Open,0
+60,26093.69,77,60991.62,0,1.0,Major,Fire,Yes,Yes,MH,Agent,Closed,0
+28,46092.29,6,125010.73,1,0.0,Minor,Natural Disaster,No,No,MH,Online,Closed,1
+38,35415.34,124,60609.82,3,1.0,Minor,Fire,Yes,No,DL,Agent,Closed,1
+52,31606.45,111,53768.05,1,,Minor,Collision,Yes,Yes,MH,Online,Closed,0
+59,33725.82,56,3039.23,1,2.0,Minor,Collision,Yes,Yes,TS,Branch,Closed,0
+67,37677.46,68,163869.14,1,3.0,Minor,Theft,No,No,MH,Branch,Open,1
+20,42401.77,60,122157.11,0,1.0,Total Loss,Fire,,Yes,TN,Agent,Closed,1
+29,23003.45,118,119645.32,1,11.0,Minor,Natural Disaster,,No,MH,Agent,Closed,0
+33,22500.95,137,128547.64,2,10.0,Minor,Fire,No,No,MH,Online,Open,1
+35,48256.15,20,110951.88,0,15.0,Minor,Collision,Yes,Yes,TS,Online,Open,0
+74,30051.96,75,74005.2,0,1.0,Minor,Theft,Yes,Yes,KA,Branch,Closed,1
+62,,3,77630.62,0,3.0,Minor,Natural Disaster,No,Yes,TS,Agent,Closed,0
+36,40325.75,82,65759.6,1,7.0,Minor,Theft,Yes,No,MH,Branch,Under Review,0
+73,40560.44,45,203563.33,1,10.0,Minor,Theft,No,No,TN,Online,Open,1
+46,16631.42,61,110016.04,0,2.0,Major,Collision,No,No,MH,Agent,Closed,0
+46,37753.78,83,64128.98,2,3.0,Minor,Theft,No,Yes,DL,Agent,Closed,1
+42,43827.0,59,105947.35,2,6.0,Minor,Collision,Yes,No,TS,Online,Closed,1
+26,39492.64,71,,1,0.0,Major,Collision,Yes,Yes,DL,Agent,Closed,0
+71,42583.78,138,152702.8,2,6.0,Minor,Fire,Yes,Yes,DL,Branch,Under Review,1
+18,18148.77,146,,2,,Minor,Natural Disaster,Yes,No,AP,Online,Closed,0
+27,38972.48,2,,0,8.0,Minor,Natural Disaster,Yes,No,DL,Online,Under Review,1
+31,31368.56,69,132968.99,2,6.0,Minor,Collision,No,Yes,DL,Agent,Closed,0
+33,29206.52,153,,1,7.0,Minor,Collision,No,No,KA,Branch,Under Review,0
+25,45446.67,96,89251.15,0,15.0,Minor,Collision,Yes,No,DL,Online,Under Review,1
+19,52751.29,37,85486.09,2,8.0,Minor,Fire,No,Yes,KA,Online,Under Review,1
+56,56532.44,107,82460.15,0,8.0,Minor,Theft,No,Yes,AP,Online,Closed,1
+73,50777.69,27,59048.57,1,14.0,Minor,Natural Disaster,No,No,DL,Online,Under Review,0
+24,33683.19,4,64773.25,1,2.0,Minor,Collision,No,Yes,MH,Branch,Open,0
+34,39232.64,114,151581.57,0,1.0,Minor,Theft,No,No,TN,Online,Closed,1
+46,209300.39999999997,93,80115.85,1,7.0,Minor,Fire,,No,TS,Online,Closed,0
+70,36454.14,137,49639.17,1,5.0,Minor,Collision,Yes,No,TN,Agent,Closed,0
+57,36569.17,63,61766.61,3,3.0,Minor,Natural Disaster,No,No,TN,Agent,Closed,0
+61,44885.04,154,134516.68,2,1.0,Total Loss,Theft,No,No,DL,Online,Open,1
+51,34288.61,76,,0,14.0,Minor,Collision,No,No,KA,Agent,Closed,1
+41,26248.56,133,110214.81,1,9.0,Minor,Collision,No,Yes,DL,Online,Open,0
+29,30026.32,19,73411.55,2,11.0,Minor,Natural Disaster,Yes,Yes,AP,Branch,Closed,0
+67,42606.92,18,110801.31,2,1.0,Minor,Theft,Yes,No,KA,Agent,Under Review,0
+63,35035.92,141,56039.75,1,5.0,Minor,Fire,No,Yes,MH,Agent,Closed,0
+19,39082.52,151,73317.37,2,9.0,Major,Fire,,Yes,KA,Online,Under Review,0
+58,43040.95,170,128641.2,1,8.0,Minor,Collision,Yes,Yes,TN,Agent,Under Review,1
+22,30501.9,59,124342.5,1,11.0,Minor,Fire,No,No,TN,Branch,Closed,0
+60,44074.98,5,40814.06,4,10.0,Minor,Natural Disaster,No,Yes,MH,Online,Closed,0
+65,,177,46501.31,3,6.0,Major,Collision,Yes,No,AP,Online,Closed,0
+25,20182.24,109,89891.6,1,12.0,Minor,Fire,No,No,TS,Online,Open,0
+42,52307.66,45,162675.96,2,4.0,Minor,Collision,Yes,No,KA,Online,Closed,0
+25,28991.06,138,1000.0,0,,Minor,Collision,No,Yes,MH,Agent,Closed,0
+50,15138.86,163,97524.98,2,14.0,Major,,Yes,No,MH,Agent,Closed,0
+70,22459.48,52,23078.05,1,0.0,Minor,Natural Disaster,No,Yes,TN,Agent,Closed,0
+22,22747.46,139,56455.11,4,4.0,Total Loss,Collision,Yes,No,DL,Branch,Open,1
+40,35626.08,142,68600.72,1,1.0,Major,Collision,Yes,No,AP,Agent,Closed,0
+73,31713.79,91,66077.12,0,3.0,Minor,Theft,Yes,Yes,MH,Agent,Closed,0
+35,30958.02,114,60979.18,0,6.0,Major,Collision,Yes,No,TN,Agent,Under Review,0
+25,42436.42,49,85324.32,2,2.0,Minor,Fire,Yes,No,DL,Agent,Closed,1
+45,39078.5,168,60913.5,2,7.0,Minor,Natural Disaster,No,No,TN,Agent,Closed,1
+46,38792.57,177,19189.42,0,14.0,Minor,Collision,No,No,TS,Online,Closed,0
+55,39917.94,177,120094.13,0,2.0,Major,Collision,Yes,No,KA,Agent,Closed,0
+35,42393.62,133,118879.25,1,14.0,Minor,Natural Disaster,No,No,KA,Online,Closed,1
+72,9704.56,8,122942.84,1,6.0,Minor,Collision,No,No,KA,Agent,Closed,1
+47,30626.74,66,15666.95,3,9.0,Minor,Collision,No,Yes,DL,Online,Closed,0
+34,,81,98451.32,2,7.0,Minor,Natural Disaster,Yes,No,TN,Agent,Under Review,1
+72,35432.72,173,115419.05,0,5.0,Major,Natural Disaster,Yes,No,DL,Online,Closed,1
+70,34944.4,99,38595.91,0,1.0,Minor,Theft,No,No,TS,Branch,Closed,1
+46,47546.39,97,,0,9.0,Minor,Theft,Yes,No,KA,Agent,Under Review,0
+19,49251.61,27,79768.0,1,14.0,Major,Natural Disaster,,No,AP,Branch,Closed,0
+52,37433.3,143,167896.78,0,8.0,Major,Theft,No,No,AP,Agent,Under Review,0
+49,28995.67,61,171602.32,1,9.0,Minor,Theft,Yes,Yes,TN,Online,Closed,1
+26,40821.93,17,10103.96,1,10.0,Minor,Fire,No,Yes,TS,Online,Closed,0
+54,28664.99,178,197226.72,0,6.0,Minor,Theft,Yes,No,DL,Agent,Open,1
+65,34983.29,35,43814.84,0,1.0,Minor,Collision,No,Yes,DL,Agent,Open,0
+24,46833.64,3,129130.3,0,8.0,Minor,Collision,No,Yes,TS,Agent,Closed,1
+59,28306.74,15,128672.41,0,13.0,Minor,Collision,No,Yes,DL,Online,Under Review,1
+25,44668.14,82,40193.94,1,5.0,Major,Collision,No,No,DL,Agent,Open,0
+60,43128.82,19,107197.05,0,13.0,Minor,Collision,No,No,KA,Branch,Under Review,0
+41,23542.5,152,80160.98,2,13.0,Major,Collision,Yes,No,TS,Agent,Closed,0
+18,46686.73,93,109944.85,1,3.0,Major,Fire,No,Yes,MH,Branch,Closed,1
+73,43382.8,59,95380.25,2,9.0,Minor,Collision,No,No,KA,Agent,Under Review,0
+27,36223.11,1,138835.28,0,11.0,Minor,Collision,Yes,Yes,TS,Online,Under Review,1
+51,25852.12,87,88392.98,3,7.0,Minor,Collision,Yes,No,DL,Agent,Closed,0
+28,24689.53,28,77445.67,1,11.0,Major,Collision,Yes,No,TN,Agent,Closed,0
+71,28548.05,177,134322.89,2,14.0,Minor,Fire,No,Yes,DL,Agent,Closed,0
+60,41511.13,53,111117.82,0,10.0,Minor,Collision,No,No,DL,Online,Closed,1
+63,23532.5,86,117931.6,1,13.0,Minor,Collision,Yes,Yes,TS,Agent,Under Review,0
+42,40250.15,4,55093.6,1,12.0,Major,Fire,Yes,No,TS,Online,Closed,0
+44,20098.93,24,37963.17,1,13.0,Minor,,Yes,Yes,TS,Branch,Closed,0
+54,32551.18,38,59452.5,0,13.0,Minor,Collision,Yes,No,AP,Agent,Closed,0
+62,36315.77,10,57063.04,1,3.0,Minor,Fire,No,No,AP,Agent,Closed,0
+66,64341.56,131,120378.97,0,0.0,Minor,Theft,Yes,No,TS,Agent,Closed,1
+19,18472.21,171,128919.28,1,2.0,Major,Fire,Yes,No,AP,Agent,Closed,0
+55,52664.17,178,78019.14,0,3.0,Major,Fire,Yes,Yes,MH,Online,Closed,0
+24,36798.11,48,149391.36,0,11.0,Major,Natural Disaster,No,No,MH,Online,Under Review,1
+34,39934.06,142,146581.12,0,8.0,Minor,Collision,No,No,AP,Agent,Under Review,0
+65,36420.17,91,95952.95,2,7.0,Minor,Fire,Yes,No,TS,Agent,Closed,0
+32,40336.72,9,684646.72,3,0.0,Minor,Theft,Yes,Yes,TN,Online,Open,0
+63,33155.78,17,155891.95,0,10.0,Minor,Collision,Yes,Yes,TN,Agent,Under Review,0
+44,52448.6,99,82254.22,2,5.0,Minor,Natural Disaster,Yes,Yes,AP,Online,Under Review,0
+31,29522.35,77,90677.43,1,12.0,Major,Collision,No,No,KA,Branch,Under Review,0
+37,,2,69717.77,2,1.0,Minor,Natural Disaster,Yes,No,DL,Agent,Closed,0
+48,27267.59,168,44959.44,1,4.0,Minor,Theft,Yes,No,KA,Online,Closed,0
+61,34276.98,132,18911.23,1,0.0,Total Loss,Collision,Yes,No,TN,Branch,Closed,1
+52,22136.45,91,113479.07,3,4.0,Minor,Collision,Yes,Yes,TN,Online,Closed,1
+71,40460.28,178,49746.95,1,14.0,Minor,Natural Disaster,Yes,No,TN,Online,Closed,0
+67,52341.51,175,222678.91,0,,Major,,Yes,Yes,AP,Online,Closed,1
+60,34071.73,176,36126.69,0,7.0,Minor,Collision,Yes,Yes,MH,Online,Closed,0
+52,32637.37,47,28417.79,1,4.0,Minor,Collision,Yes,Yes,DL,Online,Closed,0
+34,21624.6,159,107956.24,1,4.0,Minor,Fire,Yes,Yes,TN,Online,Closed,0
+41,32248.49,91,153819.11,0,,Major,Collision,No,No,TN,Online,Closed,0
+24,15886.47,131,87906.53,3,15.0,Minor,Theft,Yes,No,AP,Online,Closed,0
+39,24045.46,155,110750.91,1,11.0,Minor,Theft,Yes,Yes,TN,Agent,Open,0
+70,37721.43,30,2040.37,1,11.0,Minor,Collision,Yes,Yes,MH,Branch,Under Review,0
+42,50828.16,81,54511.98,1,7.0,Minor,,No,No,TN,Agent,Closed,0
+24,68710.53,24,,0,1.0,Major,Collision,No,Yes,AP,Agent,Closed,0
+55,27960.98,51,1000.0,1,11.0,Minor,Natural Disaster,No,No,TS,Agent,Closed,0
+72,52223.6,75,90264.11,1,12.0,Minor,Natural Disaster,No,No,AP,Agent,Closed,1
+67,37925.03,154,1000.0,0,8.0,Minor,Collision,No,No,TS,Online,Closed,0
+33,33185.03,156,25501.18,1,1.0,Minor,,Yes,No,MH,Agent,Open,0
+43,40191.13,71,60826.28,1,11.0,Minor,Collision,No,No,TS,Online,Under Review,1
+48,35743.0,60,47592.14,1,14.0,Minor,Natural Disaster,No,No,AP,Online,Open,1
+32,,96,102838.38,3,3.0,Minor,Collision,Yes,No,DL,Agent,Under Review,0
+33,30100.0,165,98751.11,0,2.0,Minor,Theft,,No,DL,Agent,Closed,0
+31,18222.68,176,125220.94,1,11.0,Major,,Yes,No,DL,Online,Open,0
+74,16476.5,41,118857.27,0,5.0,Total Loss,Collision,Yes,No,KA,Online,Closed,0
+60,42838.94,34,136336.58,1,11.0,Minor,Theft,No,No,DL,Agent,Closed,1
+65,,128,84913.67,0,,Minor,Collision,Yes,Yes,DL,Agent,Under Review,0
+64,,55,98656.01,0,4.0,Minor,Theft,No,No,MH,Agent,Closed,0
+72,35102.07,36,108018.12,1,,Minor,Collision,No,No,MH,Agent,Closed,0
+24,44539.19,6,91374.55,1,8.0,Minor,Natural Disaster,Yes,No,AP,Agent,Closed,0
+68,37164.37,73,67126.26,0,6.0,Major,Collision,Yes,No,MH,Branch,Under Review,0
+21,27127.34,71,70040.09,1,13.0,Major,Collision,No,Yes,TS,Agent,Closed,0
+45,49715.52,102,48209.87,2,5.0,Minor,Fire,No,Yes,MH,Agent,Closed,0
+51,,37,103972.76,2,3.0,Total Loss,Fire,Yes,No,AP,Branch,Closed,1
+38,40934.68,129,80769.32,2,13.0,Minor,Theft,Yes,No,MH,Online,Closed,0
+26,46683.96,123,55157.18,2,11.0,Minor,Fire,No,No,MH,Agent,Closed,0
+28,49903.52,84,55198.98,0,9.0,Minor,Collision,No,No,DL,Online,Closed,0
+65,48561.19,33,30532.06,2,15.0,Minor,Theft,,Yes,TN,Branch,Under Review,0
+36,42369.19,92,129047.86,2,12.0,Major,Collision,,No,DL,Agent,Closed,0
+35,42180.16,122,88537.8,0,,Minor,Collision,No,No,TN,Agent,Closed,1
+70,41235.93,68,46174.0,1,12.0,Minor,Natural Disaster,Yes,No,DL,Branch,Closed,0
+26,21831.95,48,121384.65,0,6.0,Minor,Fire,Yes,No,KA,Branch,Closed,0
+70,43408.68,92,59779.8,1,0.0,Major,Collision,,Yes,TN,Branch,Closed,0
+70,18730.23,64,21707.47,0,,Minor,Collision,Yes,No,TS,Agent,Under Review,0
+52,25464.81,73,130955.0,1,12.0,Minor,Natural Disaster,Yes,No,TS,Branch,Closed,0
+27,50642.78,63,60830.64,5,,Minor,Collision,No,No,MH,Agent,Closed,0
+26,45082.64,55,66599.54,1,10.0,Major,Collision,No,No,AP,Online,Under Review,0
+34,,130,86853.1,2,9.0,Minor,Collision,Yes,No,KA,Branch,Closed,0
+50,31739.91,83,136416.52,0,9.0,Minor,Collision,Yes,No,TS,Agent,Closed,1
+26,21173.01,84,85901.68,2,1.0,Major,Collision,Yes,No,TS,Agent,Closed,0
+43,32114.75,118,31039.73,0,0.0,Minor,Natural Disaster,No,No,TS,Online,Closed,0
+24,36224.38,66,109474.47,3,0.0,Minor,Collision,No,No,AP,Branch,Open,0
+48,35947.86,19,63175.46,0,14.0,Minor,Collision,No,No,DL,Agent,Under Review,0
+19,48604.17,154,169956.58,0,12.0,Minor,Fire,No,No,MH,Branch,Under Review,0
+58,30664.75,11,84949.61,2,4.0,Minor,Theft,No,No,TN,Agent,Open,1
+21,39224.41,103,1000.0,1,6.0,Minor,Fire,No,No,KA,Agent,Under Review,0
+29,,48,101081.42,1,7.0,Minor,Theft,Yes,Yes,TN,Agent,Closed,1
+27,40403.81,39,172506.9,2,,Minor,Theft,No,No,KA,Branch,Under Review,1
+65,35037.3,8,155916.41,2,6.0,Minor,Theft,No,No,MH,Agent,Under Review,0
+21,26002.24,163,167392.94,0,5.0,Total Loss,Fire,Yes,No,TS,Online,Under Review,0
+42,32170.05,78,,1,11.0,Minor,Theft,Yes,No,AP,Agent,Under Review,0
+51,32789.89,62,126046.86,2,12.0,Minor,,No,No,TS,Branch,Under Review,1
+47,31758.14,134,52510.25,2,1.0,Minor,Collision,Yes,No,MH,Branch,Closed,0
+56,56256.09,8,95093.02,1,7.0,Minor,Theft,No,No,MH,Agent,Closed,0
+63,33818.65,102,27717.14,2,15.0,Minor,Fire,Yes,No,AP,Agent,Closed,0
+40,32073.25,90,55999.49,1,13.0,Minor,Collision,Yes,No,TS,Agent,Closed,0
+65,9830.59,100,54568.9,2,12.0,Minor,Natural Disaster,Yes,No,TS,Agent,Open,0
+36,24269.51,23,125434.99,1,11.0,Minor,Collision,No,Yes,DL,Branch,Under Review,0
+74,31843.12,172,121032.36,0,0.0,Major,Collision,Yes,Yes,MH,Online,Closed,0
+46,26769.77,43,97456.89,0,15.0,Major,Natural Disaster,No,No,TN,Agent,Under Review,1
+59,51580.49,123,24231.04,0,11.0,Major,Collision,Yes,No,DL,Online,Closed,0
+67,,135,70976.23,2,14.0,Minor,Collision,Yes,No,AP,Agent,Under Review,0
+63,50461.33,62,51424.76,1,14.0,Minor,Collision,,Yes,MH,Agent,Under Review,0
+66,35740.46,24,124135.41,1,4.0,Minor,Natural Disaster,Yes,No,DL,Agent,Closed,0
+48,35446.73,54,138018.32,1,0.0,Major,Collision,No,No,MH,Agent,Closed,0
+20,33934.44,146,132537.35,1,10.0,Major,Theft,No,No,KA,Online,Closed,1
+46,35045.56,164,51015.13,2,7.0,Major,Fire,Yes,No,TN,Agent,Under Review,0
+28,55625.54,169,1000.0,0,0.0,Minor,Theft,Yes,No,MH,Online,Under Review,0
+68,7164.67,41,5486.71,2,4.0,Major,Natural Disaster,No,No,KA,Agent,Closed,0
+31,10981.45,110,148973.21,0,15.0,Minor,Fire,No,No,KA,Online,Open,1
+30,28481.95,28,,0,5.0,Major,Collision,,No,TN,Agent,Closed,0
+32,35174.33,128,51217.39,2,4.0,Minor,Natural Disaster,No,No,AP,Online,Closed,0
+54,43281.25,75,158919.71,2,10.0,Minor,Collision,Yes,Yes,KA,Agent,Under Review,1
+50,40677.05,129,141932.2,0,10.0,Minor,Collision,Yes,No,KA,Agent,Closed,0
+72,30389.05,124,86100.19,0,5.0,Total Loss,Collision,No,Yes,AP,Agent,Under Review,0
+41,47228.52,179,71796.86,1,13.0,Minor,Theft,No,No,TS,Online,Under Review,0
+34,47362.34,88,79055.45,1,9.0,Minor,,No,No,TS,Online,Under Review,0
+20,37208.69,62,95222.33,2,2.0,Minor,Theft,Yes,Yes,MH,Agent,Closed,0
+18,46551.89,95,,1,5.0,Minor,Collision,Yes,Yes,DL,Online,Closed,1
+39,38271.74,30,104011.03,1,13.0,Total Loss,Collision,No,Yes,KA,Online,Under Review,1
+70,28262.2,21,117671.31,1,1.0,Minor,Collision,Yes,Yes,MH,Online,Closed,0
+47,43373.8,94,137617.15,2,0.0,Minor,Fire,Yes,No,KA,Online,Under Review,1
+68,36327.36,149,32364.58,2,10.0,Major,,No,Yes,AP,Agent,Closed,0
+23,35016.08,96,118968.79,1,,Minor,Collision,Yes,Yes,AP,Online,Open,0
+23,52675.44,141,71744.41,1,4.0,Minor,Collision,Yes,No,MH,Online,Under Review,1
+65,5589.53,33,,0,7.0,Minor,Collision,Yes,Yes,TN,Online,Under Review,0
+24,17987.79,81,1000.0,1,2.0,Minor,Theft,No,No,DL,Agent,Closed,0
+20,20755.15,111,39184.71,2,5.0,Minor,Collision,Yes,No,AP,Online,Closed,0
+41,30640.87,63,108905.05,3,3.0,Minor,Collision,Yes,No,MH,Agent,Open,0
+70,31944.7,3,90120.98,0,9.0,Minor,Natural Disaster,Yes,No,DL,Online,Closed,0
+57,16912.09,14,93296.5,0,10.0,Major,Collision,Yes,Yes,TS,Agent,Closed,0
+23,23178.1,167,,4,14.0,Major,Collision,Yes,No,KA,Agent,Closed,1
+65,24669.9,109,27890.97,1,1.0,Major,Fire,No,No,MH,Online,Closed,0
+66,64489.09,48,83765.5,0,5.0,Minor,Theft,Yes,Yes,AP,Branch,Closed,1
+63,56620.9,47,98699.6,1,4.0,Minor,Theft,Yes,No,AP,Agent,Closed,0
+69,30059.01,8,51867.71,2,9.0,Total Loss,Collision,Yes,No,AP,Online,Closed,0
+31,30637.0,171,86274.7,3,8.0,Major,Collision,Yes,No,TN,Online,Closed,0
+73,,20,13002.28,1,14.0,Minor,Collision,Yes,No,TN,Branch,Closed,0
+36,12102.44,137,148445.78,0,,Minor,Collision,No,Yes,DL,Online,Closed,1
+63,33597.44,44,54327.35,2,12.0,Minor,Collision,No,No,TN,Agent,Closed,0
+51,23025.78,61,176413.01,0,3.0,Minor,Natural Disaster,No,No,AP,Agent,Closed,0
+62,33981.79,50,83538.66,2,0.0,Minor,Theft,Yes,No,MH,Online,Open,0
+53,15797.53,149,131262.41,3,14.0,Minor,Collision,No,Yes,TN,Agent,Under Review,1
+54,25856.31,6,82601.37,1,15.0,Total Loss,Collision,No,No,TS,Branch,Under Review,1
+53,36783.53,64,83616.53,1,4.0,Minor,Fire,Yes,No,DL,Branch,Under Review,1
+62,39394.52,51,58718.68,1,0.0,Minor,Collision,Yes,Yes,MH,Branch,Under Review,0
+60,40009.66,50,90360.58,1,10.0,Minor,Collision,No,No,KA,Agent,Closed,1
+25,19154.13,35,99309.94,3,,Major,Collision,Yes,No,AP,Online,Under Review,1
+65,45256.23,165,49708.37,3,14.0,Major,Theft,Yes,No,KA,Online,Closed,0
+48,,69,79373.0,0,9.0,Minor,Theft,No,No,TS,Agent,Under Review,0
+36,42594.29,76,57545.55,1,12.0,Minor,Collision,Yes,Yes,TN,Agent,Under Review,0
+47,34872.34,70,188484.88,1,12.0,Minor,Collision,No,No,DL,Agent,Under Review,1
+73,18483.35,177,80962.12,0,0.0,Major,Theft,Yes,No,TN,Agent,Closed,0
+66,,62,154535.45,1,2.0,Minor,Theft,Yes,No,DL,Branch,Closed,1
+65,39384.36,62,76197.0,1,12.0,Major,Theft,Yes,No,AP,Branch,Closed,0
+44,42355.58,60,96667.94,0,2.0,Minor,Collision,Yes,Yes,DL,Agent,Closed,0
+62,33308.15,59,25538.62,0,3.0,Minor,Theft,No,No,TN,Online,Under Review,0
+39,53381.35,17,64881.73,1,12.0,Minor,Natural Disaster,,No,TN,Agent,Closed,0
+57,47090.13,109,94474.06,0,3.0,Minor,Theft,No,No,AP,Agent,Closed,1
+54,31920.15,5,156370.17,0,2.0,Minor,Collision,Yes,No,DL,Agent,Closed,0
+32,44001.46,41,94989.22,1,0.0,Minor,Theft,Yes,No,MH,Online,Closed,0
+33,58205.52,37,,0,7.0,Major,Collision,Yes,Yes,MH,Online,Closed,0
+21,58525.82,53,113832.81,2,10.0,Minor,Collision,Yes,No,TS,Branch,Closed,0
+25,20264.0,137,158233.06,1,11.0,Total Loss,Collision,No,Yes,MH,Branch,Closed,1
+42,23881.6,108,82343.1,1,14.0,Minor,Natural Disaster,Yes,No,TS,Agent,Closed,0
+45,52819.03,179,192560.02,1,10.0,Minor,Collision,Yes,No,MH,Online,Closed,1
+27,22300.63,64,63157.17,3,12.0,Major,Natural Disaster,Yes,No,DL,Agent,Closed,0
+41,19129.51,168,50509.22,1,3.0,Major,Collision,No,No,DL,Agent,Closed,0
+52,29165.67,9,30547.62,1,5.0,Minor,Collision,Yes,Yes,TS,Online,Closed,0
+31,40042.72,91,189896.11,1,4.0,Minor,Collision,No,No,AP,Agent,Closed,1
+37,33771.24,144,121875.14,1,1.0,Minor,Theft,No,No,TS,Agent,Closed,1
+38,27193.24,96,69964.57,0,15.0,Minor,Collision,No,No,MH,Agent,Closed,0
+46,26909.45,168,141206.02,2,3.0,Minor,Collision,,No,DL,Agent,Closed,1
+38,26451.96,57,115946.15,1,7.0,Minor,Collision,Yes,No,MH,Branch,Under Review,0
+60,24445.88,6,173475.74,0,5.0,Minor,Collision,Yes,No,DL,Agent,Closed,0
+36,62379.59,140,15347.52,1,0.0,Minor,Collision,,No,MH,Online,Under Review,0
+42,38570.13,13,73058.8,1,14.0,Major,Collision,No,No,DL,Branch,Closed,0
+39,45641.11,138,64186.54,2,3.0,Major,,No,No,MH,Online,Closed,0
+28,29131.07,133,684646.72,0,1.0,Major,Natural Disaster,Yes,Yes,DL,Agent,Under Review,0
+57,32768.52,152,132714.72,2,5.0,Minor,Collision,Yes,No,TN,Branch,Closed,0
+31,26437.35,87,72832.15,1,2.0,Minor,Collision,No,Yes,DL,Agent,Under Review,1
+34,5000.0,162,118283.4,0,15.0,Minor,Collision,Yes,No,AP,Agent,Under Review,1
+63,18463.89,31,191189.74,1,3.0,Minor,Collision,Yes,No,MH,Online,Closed,0
+72,13272.58,79,69104.03,1,4.0,Minor,Theft,No,No,AP,Agent,Under Review,1
+56,8002.59,22,66048.12,0,4.0,Minor,Collision,Yes,No,AP,Branch,Under Review,0
+70,20655.69,139,90339.89,1,0.0,Minor,Collision,Yes,No,MH,Agent,Closed,0
+66,50899.47,129,129426.13,1,0.0,Minor,Theft,Yes,Yes,TS,Online,Open,0
+45,34466.77,146,59497.91,4,8.0,Minor,Collision,Yes,Yes,MH,Online,Closed,0
+61,50486.77,138,56606.73,1,3.0,Minor,Natural Disaster,No,No,KA,Branch,Under Review,0
+36,39931.79,56,132573.52,1,,Minor,Natural Disaster,Yes,No,DL,Agent,Under Review,1
+44,44390.71,13,102038.77,0,4.0,Minor,Collision,Yes,No,AP,Agent,Under Review,0
+48,24189.24,168,1000.0,0,4.0,Total Loss,Collision,Yes,Yes,MH,Branch,Closed,0
+72,41287.41,89,29857.37,1,6.0,Minor,Collision,Yes,No,TN,Online,Open,0
+66,43744.57,17,152555.61,2,15.0,Major,Collision,No,Yes,TS,Agent,Closed,0
+45,28080.23,167,103086.77,1,4.0,Major,Collision,No,Yes,TS,Agent,Closed,0
+55,41714.48,179,50701.18,2,11.0,Minor,Theft,Yes,No,KA,Branch,Open,0
+29,41794.25,81,77331.57,0,12.0,Minor,Collision,Yes,Yes,AP,Online,Open,0
+63,28405.37,139,85595.65,1,0.0,Minor,Collision,Yes,No,TS,Online,Open,0
+49,21526.78,7,118108.0,0,8.0,Minor,Collision,Yes,No,DL,Branch,Closed,1
+48,20790.46,17,23878.15,1,7.0,Minor,Natural Disaster,Yes,Yes,DL,Agent,Closed,0
+61,36038.07,50,47157.29,1,8.0,Major,Natural Disaster,No,Yes,AP,Agent,Closed,0
+54,38924.12,119,97283.01,1,2.0,Total Loss,Collision,Yes,Yes,TS,Online,Closed,0
+22,25489.69,25,80507.44,1,7.0,Minor,Theft,Yes,Yes,TN,Branch,Closed,0
+34,35319.02,7,110733.66,0,1.0,Minor,Collision,Yes,No,DL,Agent,Under Review,0
+28,41846.44,121,29672.17,1,15.0,Minor,Theft,No,No,DL,Online,Closed,0
+59,42418.29,139,101070.79,2,9.0,Major,Theft,Yes,No,DL,Agent,Closed,0
+20,53622.56,134,134121.26,0,0.0,Minor,Natural Disaster,,No,AP,Agent,Closed,0
+29,50323.77,144,106906.83,0,8.0,Minor,Collision,Yes,No,AP,Branch,Closed,0
+52,22984.5,145,91260.03,0,14.0,Major,Collision,No,Yes,MH,Agent,Closed,0
+57,55203.03,109,80685.24,1,11.0,Minor,Natural Disaster,No,No,MH,Agent,Closed,0
+46,28628.28,94,47431.7,2,4.0,Minor,Collision,Yes,Yes,TN,Online,Closed,0
+67,47538.47,155,81760.06,1,,Minor,Collision,Yes,No,TS,Agent,Closed,0
+70,35815.84,63,141686.76,1,2.0,Minor,Theft,Yes,Yes,TS,Agent,Closed,1
+25,30054.21,18,79643.72,1,3.0,Minor,Fire,No,Yes,AP,Branch,Closed,0
+72,13307.64,136,44958.82,2,2.0,Minor,Theft,No,No,AP,Agent,Closed,0
+53,32941.23,50,62848.88,1,14.0,Minor,,,Yes,TN,Online,Closed,0
+54,16287.4,177,94038.26,1,11.0,Major,Theft,Yes,No,AP,Agent,Closed,1
+23,46607.59,75,68191.87,0,8.0,Minor,Collision,Yes,No,TN,Agent,Closed,0
+53,53201.51,154,106838.65,1,10.0,Major,Theft,Yes,No,TN,Online,Open,0
+59,25437.07,8,108527.97,0,4.0,Minor,Fire,No,Yes,TN,Agent,Closed,1
+51,38623.65,119,125004.24,3,1.0,Major,Natural Disaster,Yes,No,AP,Branch,Closed,1
+22,26295.3,81,149060.18,1,13.0,Minor,,Yes,Yes,TS,Branch,Closed,0
+47,27458.18,84,129813.64,2,15.0,Major,,No,No,AP,Branch,Closed,0
+71,44293.94,48,42959.24,2,0.0,Minor,Fire,No,No,KA,Agent,Open,1
+59,34537.54,175,44340.95,4,0.0,Minor,Collision,No,No,MH,Agent,Open,0
+25,55875.78,71,81590.28,0,8.0,Minor,Collision,Yes,No,AP,Branch,Closed,0
+72,29213.21,154,64697.11,0,0.0,Minor,Fire,No,No,TS,Agent,Closed,0
+72,46992.04,77,33775.3,2,11.0,Total Loss,Collision,Yes,No,TS,Online,Closed,0
+27,36168.96,9,65123.87,0,15.0,Total Loss,Collision,Yes,Yes,TS,Branch,Closed,0
+63,44549.34,159,63646.92,0,4.0,Major,Collision,Yes,No,AP,Agent,Under Review,0
+41,29634.11,34,54766.85,2,4.0,Minor,Collision,No,No,MH,Agent,Closed,0
+51,34405.29,49,70789.47,3,13.0,Major,Fire,Yes,Yes,DL,Online,Open,1
+43,33614.01,155,138030.29,3,5.0,Major,Collision,No,No,DL,Online,Closed,1
+62,24967.31,161,93965.71,2,,Minor,Collision,No,Yes,AP,Agent,Under Review,0
+74,42944.98,166,196231.41,1,1.0,Minor,Collision,No,No,AP,Online,Closed,1
+63,42802.99,77,92672.87,1,13.0,Minor,Collision,,Yes,KA,Branch,Under Review,0
+71,42122.66,137,71947.04,1,14.0,Minor,Collision,No,No,AP,Agent,Closed,1
+71,53443.59,60,85185.98,2,1.0,Minor,Collision,Yes,No,DL,Agent,Open,0
+23,52392.14,134,96542.14,0,,Major,Collision,Yes,Yes,TN,Online,Closed,0
+32,30500.66,91,104586.43,0,2.0,Minor,Collision,No,No,DL,Branch,Under Review,1
+59,209300.39999999997,10,178452.01,2,2.0,Minor,Collision,Yes,No,MH,Branch,Under Review,1
+51,27516.79,76,46960.58,0,6.0,Minor,Collision,No,No,TS,Agent,Under Review,0
+20,35280.26,85,123657.07,0,6.0,Major,Collision,No,Yes,TS,Branch,Closed,1
+23,27803.01,47,94348.78,0,13.0,Total Loss,Collision,Yes,No,MH,Online,Closed,0
+47,54440.84,68,14300.6,2,,Major,Collision,No,No,KA,Online,Closed,0
+53,39364.38,91,119681.45,1,2.0,Minor,Collision,Yes,No,KA,Agent,Closed,0
+27,,9,142043.06,1,9.0,Minor,Collision,No,No,TN,Agent,Closed,1
+27,49323.42,28,46427.06,3,14.0,Minor,Theft,Yes,No,MH,Online,Under Review,0
+25,8952.62,139,84597.98,1,10.0,Minor,Collision,No,No,AP,Agent,Closed,1
+50,10830.77,64,7359.06,1,3.0,Minor,Fire,No,Yes,TN,Agent,Closed,0
+18,44550.06,110,28353.71,0,2.0,Minor,Theft,Yes,No,KA,Branch,Closed,0
+50,35725.62,102,132161.33,0,7.0,Minor,Collision,Yes,No,AP,Agent,Closed,0
+45,38005.36,100,64011.26,1,7.0,Minor,Collision,Yes,No,AP,Branch,Open,0
+44,19083.25,75,35103.87,1,5.0,Major,Collision,Yes,Yes,TN,Online,Under Review,0
+56,34721.2,87,95325.72,2,1.0,Minor,Collision,Yes,No,KA,Branch,Open,0
+47,,149,61491.44,1,1.0,Minor,Collision,Yes,No,MH,Agent,Closed,0
+59,44890.4,174,63813.03,1,8.0,Minor,Collision,No,No,MH,Online,Closed,0
+61,37036.48,47,118269.67,1,15.0,Minor,Fire,Yes,No,TN,Online,Closed,1
+70,29731.35,121,32722.0,1,9.0,Minor,Collision,Yes,No,AP,Branch,Closed,0
+63,30265.13,175,44258.57,2,7.0,Minor,Theft,No,No,TN,Agent,Closed,0
+47,9449.63,2,91933.6,0,14.0,Minor,Fire,Yes,Yes,AP,Agent,Closed,0
+46,,142,128623.44,0,11.0,Minor,Collision,Yes,No,KA,Branch,Closed,1
+31,45145.8,90,140717.21,0,11.0,Minor,Natural Disaster,No,Yes,DL,Agent,Under Review,0
+52,16092.57,175,55072.22,0,9.0,Major,Natural Disaster,,No,MH,Online,Closed,0
+25,,105,127181.96,1,12.0,Major,Collision,Yes,Yes,DL,Agent,Closed,0
+71,209300.39999999997,151,49713.6,1,8.0,Minor,Collision,No,Yes,TN,Agent,Under Review,0
+66,23415.79,30,167179.42,0,9.0,Minor,Collision,Yes,No,DL,Online,Closed,1
+24,35641.78,26,33980.3,1,9.0,Minor,Collision,Yes,Yes,TS,Online,Under Review,0
+62,9987.17,167,,1,,Minor,Collision,No,Yes,TN,Online,Under Review,0
+24,,95,,2,14.0,Minor,Collision,Yes,Yes,TN,Online,Under Review,0
+59,44046.26,101,175596.09,2,4.0,Minor,Collision,Yes,No,MH,Online,Closed,1
+22,31986.77,31,111609.43,3,11.0,Minor,Fire,No,No,MH,Branch,Closed,0
+45,5231.5,41,39279.26,1,0.0,Total Loss,Collision,Yes,No,MH,Agent,Closed,0
+55,23042.98,148,61499.27,1,8.0,Minor,Collision,,No,TN,Agent,Closed,0
+59,49794.82,55,120153.15,0,14.0,Major,,Yes,No,TS,Agent,Under Review,0
+41,5000.0,106,132369.0,0,10.0,Minor,,No,No,DL,Online,Closed,0
+70,30829.72,57,81817.8,1,4.0,Minor,Theft,No,Yes,KA,Agent,Under Review,0
+62,20839.99,48,87009.62,0,9.0,Total Loss,Collision,No,Yes,TN,Online,Closed,0
+29,44654.84,30,119125.89,0,5.0,Minor,Theft,Yes,Yes,KA,Agent,Closed,1
+56,26898.63,168,90930.93,1,6.0,Minor,Collision,No,No,KA,Online,Closed,0
+59,39847.45,170,26792.28,0,3.0,Total Loss,Theft,Yes,Yes,DL,Branch,Under Review,0
+37,41785.53,21,48416.17,1,9.0,Minor,Theft,Yes,Yes,TN,Online,Closed,0
+60,57034.71,64,95580.4,3,3.0,Minor,Collision,Yes,No,TN,Online,Under Review,1
+69,,102,139696.71,1,7.0,Minor,Theft,No,Yes,KA,Agent,Closed,1
+64,39512.53,69,157719.21,0,15.0,Minor,Natural Disaster,Yes,Yes,DL,Online,Under Review,0
+61,17179.33,130,120078.82,0,12.0,Minor,Fire,No,Yes,AP,Agent,Closed,0
+54,49284.96,47,97928.08,0,6.0,Minor,Collision,Yes,No,MH,Branch,Under Review,0
+33,25873.89,11,118696.62,1,15.0,Major,Theft,Yes,Yes,TN,Agent,Closed,0
+63,28270.95,61,54996.21,0,0.0,Minor,Collision,,Yes,TS,Agent,Closed,0
+38,34733.03,108,78104.61,1,15.0,Minor,Fire,No,Yes,DL,Agent,Under Review,1
+48,16245.39,33,47914.12,0,5.0,Minor,Fire,Yes,No,MH,Online,Open,0
+35,37745.24,147,,0,13.0,Minor,Collision,No,Yes,TS,Branch,Closed,0
+35,46609.6,3,100009.71,0,15.0,Major,Collision,Yes,Yes,TN,Agent,Under Review,0
+26,38515.21,13,93348.1,0,9.0,Minor,Collision,No,No,TN,Agent,Closed,0
+72,15933.23,92,,2,9.0,Minor,Collision,Yes,No,TS,Agent,Under Review,0
+26,33514.29,93,109575.03,1,11.0,Major,Collision,Yes,Yes,AP,Branch,Closed,0
+22,,54,95918.99,1,,Major,Collision,Yes,Yes,KA,Branch,Under Review,0
+71,12464.13,47,110047.75,0,2.0,Major,Theft,Yes,Yes,TN,Agent,Closed,1
+49,22102.81,13,83079.26,1,5.0,Minor,Collision,Yes,No,AP,Online,Closed,0
+42,45518.52,120,103580.11,0,7.0,Minor,Collision,Yes,Yes,TN,Branch,Under Review,0
+60,38241.15,69,52323.5,0,11.0,Minor,,No,No,TS,Online,Closed,1
+39,39943.66,22,101636.77,1,4.0,Minor,Collision,Yes,No,TN,Online,Open,0
+25,57313.94,72,,1,9.0,Major,Collision,Yes,No,TN,Online,Closed,1
+59,40622.63,169,54864.34,1,0.0,Minor,Fire,Yes,Yes,KA,Online,Closed,0
+28,42894.66,48,87332.44,0,0.0,Minor,Natural Disaster,No,No,TS,Agent,Closed,0
+49,67528.95,162,56937.89,2,15.0,Major,Theft,Yes,No,TN,Agent,Closed,0
+72,32434.35,47,61307.2,0,13.0,Total Loss,Collision,Yes,No,TS,Agent,Closed,0
+71,25425.41,34,34378.18,4,13.0,Minor,Collision,No,Yes,DL,Agent,Under Review,0
+38,40133.56,47,141959.87,1,5.0,Total Loss,Natural Disaster,Yes,No,DL,Agent,Closed,1
+62,40267.89,59,132955.83,2,8.0,Minor,Theft,No,No,MH,Branch,Closed,0
+52,28679.42,22,109184.52,2,10.0,Minor,Fire,Yes,No,MH,Branch,Closed,0
+45,22611.24,106,,1,4.0,Minor,Theft,No,No,DL,Agent,Closed,1
+25,62718.13,61,76483.94,5,11.0,Total Loss,Collision,Yes,No,MH,Agent,Closed,0
+39,38922.12,130,221429.31,1,11.0,Major,Collision,No,No,TN,Online,Closed,0
+55,26212.58,89,74761.18,2,6.0,Minor,Fire,No,No,TS,Online,Under Review,0
+74,45991.16,80,96483.7,2,6.0,Minor,Natural Disaster,Yes,No,DL,Agent,Closed,0
+18,33690.26,85,,2,4.0,Minor,Collision,Yes,No,MH,Branch,Open,1
+58,31965.42,29,101754.65,0,12.0,Minor,Theft,,Yes,AP,Agent,Closed,0
+66,41747.27,129,122602.67,2,15.0,Major,Collision,Yes,Yes,TN,Agent,Under Review,0
+72,19497.41,19,79873.76,1,15.0,Minor,Natural Disaster,No,No,KA,Online,Closed,1
+42,39231.53,130,164952.39,2,12.0,Major,Collision,No,No,AP,Online,Closed,0
+24,57955.46,180,95761.72,3,5.0,Minor,Theft,No,Yes,MH,Agent,Under Review,0
+33,40594.13,138,97171.84,0,12.0,Minor,Collision,No,No,TS,Online,Open,0
+66,30485.45,82,44095.1,0,3.0,Minor,Theft,No,No,KA,Branch,Closed,0
+68,28914.74,57,103832.46,2,14.0,Total Loss,Theft,No,No,DL,Agent,Closed,1
+54,30075.92,158,78968.78,1,4.0,Minor,Collision,Yes,Yes,AP,Online,Closed,0
+24,31952.45,47,57629.21,2,6.0,Minor,Fire,Yes,No,AP,Agent,Under Review,0
+24,30466.32,87,50058.65,0,1.0,Minor,,Yes,No,MH,Online,Open,0
+45,45995.74,139,205229.35,0,1.0,Major,Natural Disaster,Yes,Yes,AP,Agent,Under Review,1
+51,14201.49,167,73143.52,1,6.0,Major,Collision,Yes,No,TS,Agent,Closed,1
+19,45344.0,166,19435.66,1,8.0,Major,Fire,Yes,No,DL,Agent,Under Review,0
+57,30443.76,16,53580.03,1,0.0,Minor,Theft,Yes,No,TS,Branch,Under Review,0
+49,39523.37,162,82679.45,0,13.0,Major,Theft,Yes,No,TS,Agent,Closed,1
+18,21476.15,21,109600.02,2,1.0,Minor,Collision,Yes,Yes,AP,Branch,Closed,1
+23,50943.57,106,109965.84,0,15.0,Minor,Theft,Yes,Yes,DL,Agent,Closed,0
+43,209300.39999999997,168,115447.65,2,4.0,Minor,Collision,Yes,Yes,KA,Branch,Under Review,1
+59,46515.09,118,,0,6.0,Minor,Collision,Yes,Yes,TN,Online,Closed,0
+65,16822.94,171,100319.82,0,2.0,Total Loss,Collision,No,No,DL,Agent,Closed,0
+42,44949.45,62,45577.32,2,13.0,Total Loss,Collision,No,Yes,AP,Online,Under Review,0
+34,39858.26,57,57116.07,1,11.0,Minor,Collision,Yes,No,TN,Branch,Under Review,0
+73,15736.75,59,43703.1,1,1.0,Minor,Collision,Yes,Yes,AP,Online,Closed,0
+44,34708.43,64,,0,1.0,Major,Fire,Yes,Yes,TN,Agent,Under Review,0
+35,39374.41,123,132889.43,1,9.0,Total Loss,Collision,Yes,Yes,TS,Online,Open,1
+43,41672.9,82,115987.53,3,13.0,Major,Collision,Yes,No,TN,Online,Closed,0
+18,37127.14,133,128949.94,1,1.0,Minor,Fire,No,No,AP,Agent,Under Review,0
+35,38494.78,75,86769.09,2,3.0,Minor,Natural Disaster,Yes,No,DL,Online,Open,0
+47,52683.34,56,119956.35,0,,Major,Natural Disaster,,Yes,KA,Agent,Closed,0
+70,49712.41,35,5741.98,3,1.0,Major,Fire,No,No,MH,Agent,Under Review,1
+60,5000.0,100,123838.94,3,4.0,Major,Natural Disaster,Yes,No,KA,Online,Closed,1
+62,31190.74,162,92970.39,3,0.0,Minor,Theft,Yes,Yes,AP,Branch,Open,1
+49,33024.19,155,113219.93,1,7.0,Minor,Natural Disaster,Yes,Yes,MH,Agent,Closed,0
+24,,46,102101.05,1,11.0,Minor,Natural Disaster,No,Yes,DL,Agent,Closed,0
+40,36130.2,86,40582.52,0,6.0,Major,Collision,Yes,Yes,TN,Agent,Closed,0
+74,49985.09,127,17588.21,4,4.0,Minor,Natural Disaster,No,No,KA,Online,Under Review,0
+20,21961.19,111,52957.56,1,6.0,Minor,Fire,No,No,MH,Agent,Closed,0
+68,39036.81,13,110421.28,0,8.0,Major,Fire,Yes,No,DL,Agent,Closed,0
+57,24010.12,107,116054.11,1,2.0,Major,Natural Disaster,No,No,TS,Agent,Open,0
+34,26937.06,7,23442.6,2,1.0,Minor,Collision,Yes,No,KA,Branch,Closed,0
+62,52728.72,21,40850.53,0,2.0,Major,Collision,Yes,No,TS,Agent,Closed,0
+65,28489.31,118,,1,15.0,Minor,Theft,Yes,Yes,AP,Online,Under Review,0
+20,40546.55,19,68921.27,1,11.0,Minor,,No,No,AP,Agent,Under Review,0
+24,12545.38,62,23707.71,2,2.0,Minor,Natural Disaster,,Yes,KA,Agent,Closed,0
+55,57347.81,106,21007.67,0,4.0,Minor,Natural Disaster,Yes,Yes,TN,Agent,Under Review,0
+74,42231.83,118,48017.41,1,6.0,Total Loss,Theft,No,Yes,DL,Agent,Open,1
+19,32810.0,81,88881.42,0,,Major,Natural Disaster,Yes,No,KA,Online,Closed,0
+55,41906.56,17,31873.25,2,13.0,Minor,,No,No,DL,Agent,Closed,0
+25,18082.17,144,79788.84,2,,Major,Natural Disaster,No,No,TS,Agent,Closed,1
+55,49190.37,171,132634.88,1,3.0,Minor,Collision,Yes,Yes,TS,Agent,Under Review,1
+53,31112.18,160,26419.91,1,0.0,Minor,,No,No,DL,Agent,Closed,0
+23,32551.17,135,75709.94,1,4.0,Major,Collision,No,Yes,TN,Agent,Under Review,1
+56,29100.13,73,684646.72,1,9.0,Minor,Theft,Yes,No,DL,Agent,Closed,1
+69,28032.18,158,66177.92,1,,Minor,Collision,,No,TN,Agent,Closed,0
+67,43336.05,88,59184.86,2,5.0,Minor,Collision,,No,AP,Online,Closed,0
+19,38070.88,25,137357.31,0,4.0,Minor,Theft,No,No,AP,Branch,Under Review,1
+32,42820.98,154,71220.91,0,3.0,Total Loss,Fire,No,No,TS,Online,Closed,0
+31,34894.46,58,134702.28,1,0.0,Minor,Collision,Yes,No,TN,Agent,Closed,1
+43,41158.4,169,104303.44,1,0.0,Minor,Theft,Yes,Yes,MH,Branch,Open,0
+26,29973.82,67,69571.99,0,6.0,Minor,Collision,Yes,No,KA,Branch,Open,0
+66,61756.78,157,106586.07,2,9.0,Major,Collision,,Yes,TS,Online,Open,1
+62,16184.84,97,99420.23,1,0.0,Minor,Collision,No,No,TS,Agent,Under Review,1
+64,50131.25,85,130939.73,1,3.0,Minor,Theft,No,No,TS,Online,Closed,1
+29,51414.89,54,60324.45,2,14.0,Minor,Fire,Yes,No,TS,Branch,Closed,1
+18,24774.09,151,86854.27,5,15.0,Minor,Theft,Yes,No,MH,Online,Closed,0
+69,61751.28,11,82231.79,1,10.0,Minor,,No,Yes,DL,Online,Closed,0
+34,209300.39999999997,85,116686.67,1,8.0,Minor,Theft,Yes,No,TN,Online,Closed,0
+55,46653.67,67,38866.94,1,9.0,Minor,Fire,No,Yes,AP,Branch,Open,1
+69,35336.27,98,130763.97,1,5.0,Minor,Natural Disaster,No,No,TS,Agent,Closed,0
+20,,46,105984.79,1,3.0,Major,Collision,Yes,No,AP,Agent,Closed,0
+18,32487.09,120,25738.37,0,6.0,Minor,Collision,Yes,No,DL,Branch,Closed,0
+18,39686.37,70,139371.83,4,11.0,Minor,Collision,No,Yes,TS,Agent,Closed,1
+26,51814.24,34,185534.19,1,10.0,Minor,Theft,Yes,Yes,TS,Agent,Open,1
+20,37175.77,36,130082.53,1,10.0,Minor,Collision,No,No,TN,Agent,Under Review,0
+64,,126,149214.31,0,9.0,Major,Collision,Yes,Yes,AP,Agent,Under Review,1
+52,44893.12,48,88841.71,2,0.0,Major,Natural Disaster,,Yes,TS,Agent,Open,0
+73,,56,10232.28,2,10.0,Major,Natural Disaster,Yes,No,AP,Online,Closed,0
+63,42855.91,113,2014.58,1,14.0,Minor,Collision,No,No,MH,Agent,Closed,0
+72,43945.99,60,96478.69,0,10.0,Minor,Collision,No,Yes,KA,Online,Under Review,0
+31,31748.86,70,58360.95,1,9.0,Minor,Collision,No,No,KA,Agent,Closed,0
+34,23852.13,45,43844.07,0,3.0,Total Loss,,Yes,No,AP,Branch,Closed,0
+66,24581.68,63,82176.4,1,12.0,Minor,Natural Disaster,No,No,TN,Online,Closed,1
+31,15374.44,125,112701.34,2,,Major,Theft,Yes,Yes,MH,Branch,Open,0
+21,37843.38,97,19625.91,1,4.0,Minor,Collision,Yes,Yes,DL,Agent,Closed,0
+56,33998.61,180,64800.51,1,7.0,Minor,Collision,,Yes,AP,Agent,Closed,0
+63,29720.15,139,152944.18,1,1.0,Major,Collision,Yes,No,TS,Branch,Under Review,1
+73,5000.0,4,36612.02,1,14.0,Minor,Collision,No,No,TN,Branch,Under Review,0
+70,20032.19,69,124139.25,0,11.0,Minor,Collision,Yes,Yes,TS,Agent,Closed,0
+24,48450.09,53,63187.12,1,,Minor,Theft,Yes,Yes,MH,Online,Closed,0
+62,27024.49,106,,1,12.0,Total Loss,Collision,Yes,Yes,MH,Online,Under Review,0
+66,39327.1,48,134379.74,0,0.0,Minor,Natural Disaster,No,Yes,DL,Agent,Under Review,0
+57,18311.77,174,118357.68,1,6.0,Major,Collision,Yes,No,TS,Online,Under Review,1
+64,52264.47,54,125912.18,3,10.0,Minor,Fire,No,Yes,AP,Agent,Under Review,1
+65,33271.67,94,33178.29,2,0.0,Minor,Collision,Yes,Yes,KA,Agent,Closed,0
+43,38480.48,23,135114.69,1,11.0,Minor,Collision,No,No,MH,Branch,Closed,0
+20,62909.36,164,46628.81,1,13.0,Minor,Natural Disaster,Yes,Yes,MH,Online,Closed,0
+44,53197.28,165,96679.38,0,9.0,Total Loss,Theft,Yes,Yes,TS,Branch,Closed,1
+29,31321.21,143,96621.08,1,3.0,Major,Collision,No,No,DL,Online,Closed,0
+24,27881.36,64,,0,11.0,Total Loss,Collision,No,Yes,TN,Branch,Closed,0
+25,31093.46,11,100163.05,0,5.0,Total Loss,,,Yes,KA,Agent,Closed,0
+57,41118.78,128,47028.55,0,11.0,Minor,,Yes,No,TS,Agent,Closed,0
+46,33737.31,78,24255.97,1,10.0,Minor,Theft,Yes,No,KA,Agent,Closed,0
+48,30257.07,179,124255.69,2,1.0,Major,Collision,No,Yes,KA,Online,Closed,0
+60,52606.18,126,93362.56,0,1.0,Minor,Collision,No,No,MH,Online,Closed,0
+49,33629.48,97,136721.96,2,0.0,Major,Collision,No,Yes,AP,Online,Open,1
+53,,178,684646.72,0,1.0,Minor,Collision,No,No,TS,Agent,Closed,0
+22,36088.91,145,21767.6,1,4.0,Minor,Theft,No,No,MH,Agent,Open,0
+66,56423.82,83,128475.84,1,0.0,Minor,Fire,Yes,No,AP,Branch,Closed,0
+43,39287.83,4,68333.32,1,15.0,Minor,Collision,Yes,Yes,TS,Branch,Closed,1
+26,46555.53,17,100390.16,0,14.0,Minor,Fire,,No,TS,Agent,Under Review,1
+64,26304.67,80,55864.33,0,2.0,Minor,Theft,Yes,No,TS,Online,Closed,0
+59,24754.89,102,158993.58,1,4.0,Minor,Fire,,Yes,MH,Online,Closed,1
+21,40516.47,6,45554.58,0,11.0,Minor,Collision,No,No,AP,Online,Under Review,0
+29,46862.64,23,69815.66,1,10.0,Minor,Collision,No,No,TS,Agent,Closed,0
+18,35483.08,127,89835.19,0,,Minor,Collision,No,No,TS,Online,Under Review,1
+33,19563.28,136,35851.8,1,15.0,Minor,Collision,Yes,No,KA,Agent,Open,0
+23,18676.9,6,99873.38,0,10.0,Major,Collision,No,No,TN,Agent,Closed,0
+58,17874.36,92,157535.97,2,10.0,Minor,Collision,Yes,No,KA,Branch,Open,1
+47,13788.53,15,62929.2,2,8.0,Minor,Collision,Yes,No,TN,Agent,Closed,0
+73,36313.82,131,102781.43,2,8.0,Minor,Collision,No,No,AP,Agent,Under Review,0
+60,48500.53,151,1000.0,1,4.0,Minor,Natural Disaster,No,No,DL,Agent,Closed,1
+52,34839.01,157,83248.19,0,,Minor,Fire,No,No,DL,Agent,Closed,0
+47,7875.02,108,70913.1,3,14.0,Minor,Collision,No,No,MH,Online,Closed,1
+21,32710.87,114,48167.61,1,6.0,Minor,Natural Disaster,No,No,TS,Agent,Under Review,0
+22,33046.41,167,133665.27,3,2.0,Minor,Collision,Yes,No,TN,Online,Closed,1
+53,,111,70319.03,0,9.0,Minor,Collision,Yes,Yes,AP,Branch,Closed,1
+18,17514.35,81,77013.51,0,12.0,Minor,Fire,No,No,MH,Agent,Under Review,0
+20,,136,68026.32,1,15.0,Minor,Collision,No,Yes,DL,Branch,Closed,0
+30,55470.23,107,1000.0,2,8.0,Minor,Collision,Yes,Yes,DL,Agent,Closed,0
+68,40399.74,152,34060.61,1,12.0,Minor,Collision,Yes,No,AP,Agent,Open,0
+44,41759.76,95,128249.21,0,4.0,Major,Collision,Yes,No,AP,Agent,Closed,0
+58,36375.01,157,1000.0,2,6.0,Minor,Theft,Yes,No,TS,Agent,Under Review,1
+41,38959.32,9,50515.81,0,6.0,Minor,Collision,No,Yes,KA,Agent,Closed,0
+27,44331.31,7,67012.6,1,5.0,Minor,Collision,Yes,Yes,KA,Agent,Under Review,0
+39,25286.16,18,163462.98,1,11.0,Minor,,Yes,Yes,KA,Branch,Open,0
+23,45536.7,101,119587.17,0,14.0,Minor,Collision,No,Yes,MH,Online,Closed,0
+61,18523.96,128,59927.33,1,5.0,Major,Collision,Yes,Yes,TN,Branch,Closed,0
+28,38940.42,39,143703.12,0,2.0,Major,Natural Disaster,Yes,No,MH,Online,Closed,0
+39,37144.89,29,,2,13.0,Minor,Fire,Yes,Yes,AP,Online,Closed,0
+73,27604.48,155,130409.49,0,13.0,Minor,Collision,Yes,No,MH,Agent,Closed,0
+51,34727.78,136,23850.52,4,14.0,Major,Fire,Yes,Yes,KA,Online,Closed,0
+44,27529.52,117,133296.6,1,4.0,Minor,Collision,Yes,No,TN,Agent,Under Review,0
+48,22139.58,88,66723.99,3,11.0,Minor,Collision,Yes,No,TN,Branch,Closed,0
+62,30756.62,76,38717.31,0,11.0,Major,Collision,Yes,Yes,AP,Branch,Closed,0
+32,21752.14,4,75228.54,1,12.0,Minor,Collision,Yes,Yes,TS,Agent,Closed,0
+54,38873.57,34,97480.49,2,12.0,Minor,Fire,Yes,No,TN,Online,Closed,0
+67,21198.97,162,62736.32,0,15.0,Minor,Natural Disaster,No,Yes,MH,Online,Closed,0
+50,43543.72,62,109927.91,3,7.0,Minor,Collision,Yes,No,DL,Online,Under Review,0
+43,20822.25,127,58765.28,1,1.0,Minor,Collision,Yes,No,KA,Agent,Closed,0
+26,28204.46,127,112916.76,1,3.0,Minor,Theft,No,No,KA,Online,Closed,0
+32,27504.76,56,104899.99,3,14.0,Minor,Collision,Yes,No,DL,Branch,Closed,1
+71,50901.76,37,82258.46,0,13.0,Minor,Collision,Yes,No,TS,Agent,Open,0
+48,38963.48,125,65137.8,1,0.0,Minor,Natural Disaster,No,No,DL,Online,Open,1
+35,32459.19,17,91819.34,1,5.0,Major,Fire,Yes,Yes,MH,Agent,Open,0
+41,40984.63,90,,1,3.0,Minor,Natural Disaster,Yes,Yes,MH,Branch,Open,0
+50,9713.69,160,177780.96,2,5.0,Major,Collision,No,Yes,KA,Agent,Closed,1
+48,34482.4,129,127273.92,2,10.0,Minor,Collision,No,No,TS,Agent,Under Review,0
+57,,138,128919.55,0,8.0,Minor,Collision,Yes,No,AP,Agent,Closed,0
+32,36588.16,15,223983.05,1,7.0,Minor,Natural Disaster,,Yes,DL,Branch,Closed,0
+55,35814.96,36,108218.13,2,,Minor,Collision,Yes,No,KA,Online,Closed,0
+43,41577.54,50,106808.96,3,10.0,Minor,Collision,No,Yes,KA,Agent,Closed,0
+71,45747.26,53,116680.68,1,10.0,Major,Collision,Yes,Yes,TS,Agent,Closed,0
+27,11030.4,35,39596.53,0,0.0,Major,Fire,Yes,Yes,DL,Online,Closed,0
+26,14812.08,175,65024.43,1,,Major,Fire,Yes,No,DL,Agent,Closed,0
+44,37523.5,30,62222.38,0,5.0,Minor,Theft,No,No,TS,Agent,Closed,0
+46,26421.48,128,114142.63,1,6.0,Minor,,Yes,No,AP,Branch,Open,0
+57,50744.3,106,77162.14,1,15.0,Minor,Theft,Yes,Yes,TN,Agent,Under Review,0
+41,31217.91,110,91220.05,1,14.0,Minor,Collision,,No,DL,Online,Under Review,0
+70,11785.63,39,133935.46,2,10.0,Major,Collision,No,No,TN,Agent,Under Review,0
+45,19783.83,56,123841.78,1,0.0,Major,Collision,Yes,Yes,KA,Online,Open,1
+25,5000.0,110,684646.72,1,1.0,Minor,Collision,No,No,TS,Online,Closed,0
+24,32190.49,54,54850.22,1,7.0,Major,Collision,Yes,Yes,AP,Agent,Closed,0
+73,32739.39,125,136087.36,2,9.0,Major,Natural Disaster,Yes,Yes,AP,Online,Open,1
+25,29906.45,8,119825.1,1,10.0,Minor,Collision,Yes,No,DL,Branch,Under Review,1
+72,47946.55,14,12718.44,0,2.0,Major,Collision,Yes,Yes,TN,Branch,Closed,0
+33,,132,70908.07,2,14.0,Minor,Theft,Yes,No,DL,Agent,Open,1
+23,,112,,2,7.0,Minor,Theft,No,No,TN,Agent,Under Review,0
+35,9383.68,8,120047.34,1,9.0,Minor,Collision,Yes,Yes,TN,Branch,Open,0
+53,42407.38,162,125954.57,0,0.0,Minor,Theft,No,Yes,KA,Agent,Closed,1
+42,41664.32,1,97775.77,1,13.0,Minor,Collision,Yes,No,MH,Agent,Open,0
+62,38712.7,172,111336.14,3,8.0,Total Loss,Collision,Yes,No,DL,Agent,Open,1
+52,46777.76,132,87886.16,2,3.0,Minor,Theft,Yes,No,DL,Branch,Under Review,0
+40,21022.06,178,54676.67,2,5.0,Minor,Theft,Yes,Yes,TN,Agent,Closed,1
+54,59105.06,171,73243.1,2,5.0,Minor,Collision,Yes,No,MH,Agent,Closed,0
+73,23486.87,57,85854.6,2,0.0,Minor,Collision,No,No,KA,Online,Closed,1
+41,43990.68,137,83439.43,1,15.0,Major,Collision,No,Yes,TS,Agent,Under Review,0
+26,,38,1000.0,0,12.0,Minor,Collision,No,No,MH,Agent,Under Review,0
+41,23836.82,85,67113.25,0,14.0,Total Loss,Natural Disaster,No,No,KA,Online,Under Review,0
+65,53196.42,44,87529.25,0,5.0,Minor,Collision,Yes,No,KA,Agent,Under Review,0
+30,31869.2,88,72338.35,3,8.0,Minor,,Yes,Yes,KA,Branch,Closed,0
+72,45079.07,158,73892.93,3,7.0,Minor,Collision,Yes,No,MH,Agent,Closed,1
+51,37843.46,79,106959.61,0,7.0,Minor,Fire,No,Yes,TS,Branch,Under Review,0
+52,33740.5,17,36446.93,2,9.0,Total Loss,Collision,,No,KA,Online,Open,0
+36,51366.2,59,11738.1,1,7.0,Minor,Collision,Yes,Yes,TS,Agent,Closed,0
+70,32160.09,142,,0,12.0,Minor,Collision,No,Yes,MH,Agent,Closed,0
+20,13631.14,94,119385.15,2,0.0,Minor,Collision,Yes,No,TN,Online,Closed,1
+35,,101,160939.89,2,3.0,Major,Natural Disaster,,Yes,TS,Agent,Closed,1
+41,41614.3,78,120195.77,2,14.0,Minor,Theft,Yes,No,TN,Agent,Under Review,0
+45,39746.11,53,18928.13,2,14.0,Minor,Theft,No,Yes,TN,Branch,Closed,0
+45,16195.3,108,74543.47,0,13.0,Major,Collision,No,No,AP,Online,Closed,0
+26,26307.89,114,96548.55,2,5.0,Minor,Theft,No,Yes,AP,Branch,Closed,0
+30,28019.34,162,92991.6,0,7.0,Minor,Theft,Yes,No,AP,Agent,Closed,0
+23,30614.36,112,109268.7,1,0.0,Minor,Fire,Yes,No,TN,Agent,Open,0
+50,18489.04,180,43732.8,0,4.0,Minor,Theft,Yes,Yes,AP,Online,Open,0
+37,27459.55,149,87922.44,4,11.0,Total Loss,Fire,Yes,Yes,TS,Agent,Closed,0
+50,26256.67,15,103914.53,1,5.0,Minor,Collision,Yes,Yes,AP,Agent,Closed,0
+51,44258.4,71,122155.19,0,7.0,Major,Natural Disaster,Yes,No,TS,Agent,Closed,0
+58,44709.46,70,48742.68,3,1.0,Minor,Collision,Yes,Yes,KA,Agent,Closed,0
+49,33250.27,1,69467.94,4,7.0,Minor,Collision,Yes,Yes,KA,Online,Open,0
+54,30295.52,33,1000.0,4,11.0,Minor,Natural Disaster,No,Yes,DL,Agent,Closed,0
+51,36679.09,138,57034.21,0,,Minor,Collision,Yes,No,AP,Branch,Closed,0
+55,25201.1,64,61401.33,0,8.0,Minor,Collision,Yes,No,TS,Agent,Closed,0
+53,21238.02,27,39118.7,3,14.0,Minor,Collision,Yes,No,MH,Agent,Under Review,0
+36,23717.35,52,92452.55,1,3.0,Minor,Collision,Yes,No,KA,Agent,Closed,0
+32,27382.24,50,82482.46,1,4.0,Major,Natural Disaster,No,No,DL,Online,Closed,0
+62,21038.31,32,1000.0,1,9.0,Minor,Fire,Yes,No,AP,Branch,Closed,0
+37,36944.71,19,94697.86,1,7.0,Major,Collision,No,No,DL,Branch,Open,0
+49,43756.59,138,43225.41,0,15.0,Minor,Natural Disaster,No,Yes,AP,Agent,Closed,0
+29,15954.82,149,,0,0.0,Minor,Theft,No,No,AP,Agent,Closed,1
+42,35301.54,90,,3,1.0,Minor,Natural Disaster,No,No,TS,Branch,Open,0
+48,32360.77,111,86350.29,1,5.0,Major,Collision,No,No,TN,Agent,Closed,0
+53,39098.1,166,72257.65,1,7.0,Minor,Collision,Yes,Yes,TS,Online,Under Review,0
+48,34844.73,152,98639.58,3,,Minor,Collision,Yes,Yes,DL,Agent,Closed,0
+38,17556.81,6,90611.38,1,7.0,Minor,Collision,No,No,TS,Agent,Under Review,0
+72,19851.33,172,73517.61,0,6.0,Minor,Theft,Yes,No,KA,Agent,Under Review,0
+47,35353.08,13,15867.75,2,2.0,Major,Collision,Yes,No,MH,Agent,Closed,0
+64,47345.37,5,18525.64,0,6.0,Minor,Collision,Yes,No,KA,Branch,Closed,0
+59,8429.75,73,58725.09,4,8.0,Total Loss,Theft,Yes,No,KA,Online,Closed,0
+49,39148.72,135,84627.41,4,9.0,Minor,,Yes,Yes,TN,Branch,Closed,0
+68,209300.39999999997,15,57628.84,2,9.0,Minor,Collision,Yes,Yes,TN,Online,Closed,0
+25,33163.69,53,113134.54,0,6.0,Minor,Theft,Yes,Yes,KA,Agent,Open,0
+70,41602.43,48,72435.06,2,2.0,Minor,Natural Disaster,Yes,No,KA,Online,Open,0
+66,26563.17,72,41574.43,2,2.0,Minor,Collision,Yes,No,MH,Agent,Closed,0
+46,33567.61,178,72485.67,1,2.0,Minor,Natural Disaster,No,No,AP,Branch,Open,0
+59,15549.04,60,95163.69,2,9.0,Minor,Fire,Yes,No,TN,Agent,Closed,0
+47,6867.88,38,99619.81,3,13.0,Minor,Theft,No,No,AP,Branch,Under Review,1
+33,46313.19,23,169527.06,2,14.0,Minor,Collision,Yes,No,MH,Online,Closed,1
+63,23180.06,36,54899.08,2,4.0,Total Loss,Theft,Yes,No,MH,Online,Closed,0
+32,29533.67,24,81693.46,1,1.0,Minor,Fire,No,No,TN,Online,Closed,0
+35,18362.69,104,104175.58,0,10.0,Minor,Collision,No,No,TN,Online,Under Review,1
+47,18080.36,76,83945.97,1,0.0,Minor,Natural Disaster,No,Yes,DL,Online,Closed,0
+65,32913.95,90,62472.18,3,10.0,Minor,Natural Disaster,No,No,TS,Online,Closed,0
+39,26245.07,150,15283.43,1,6.0,Minor,Collision,No,Yes,DL,Agent,Under Review,0
+46,,105,62012.44,1,13.0,Total Loss,Theft,No,Yes,TN,Online,Closed,0
+20,40430.46,28,36683.39,2,,Minor,Collision,No,No,KA,Agent,Closed,0
+24,38850.2,68,7302.7,0,11.0,Major,Fire,No,No,AP,Online,Open,0
+21,37863.21,57,49194.45,1,6.0,Minor,Fire,Yes,Yes,TN,Online,Open,0
+22,53933.22,149,37880.87,1,13.0,Major,Collision,Yes,Yes,MH,Agent,Closed,0
+67,22188.87,56,111270.39,2,8.0,Minor,Collision,Yes,No,MH,Online,Closed,0
+65,34340.78,25,,0,10.0,Total Loss,Collision,Yes,Yes,KA,Agent,Closed,1
+64,48592.28,133,,1,5.0,Minor,Natural Disaster,No,Yes,TS,Online,Closed,0
+21,50174.48,78,73289.71,0,7.0,Minor,Collision,Yes,No,AP,Online,Under Review,0
+22,17938.84,18,1379.08,1,13.0,Minor,Natural Disaster,Yes,No,TS,Online,Under Review,0
+33,31251.73,125,62754.7,2,6.0,Minor,,No,No,AP,Online,Open,0
+50,51297.45,38,102954.19,0,0.0,Minor,Collision,Yes,No,TS,Agent,Closed,1
+37,41096.95,157,122122.21,3,6.0,Minor,Natural Disaster,No,Yes,MH,Agent,Open,1
+45,37343.16,150,52912.88,0,6.0,Minor,Theft,Yes,Yes,TN,Online,Closed,0
+27,32387.78,67,132333.47,0,6.0,Major,Collision,Yes,No,TN,Agent,Closed,0
+59,30394.39,101,16793.86,2,1.0,Minor,Collision,Yes,No,MH,Agent,Closed,0
+35,38458.63,103,684646.72,1,,Major,Collision,Yes,Yes,DL,Agent,Closed,0
+21,31971.51,118,116934.78,1,5.0,Minor,Collision,,Yes,AP,Agent,Closed,0
+60,34489.06,13,160200.46,3,6.0,Minor,Collision,Yes,Yes,DL,Branch,Open,1
+69,35943.18,59,107204.44,2,0.0,Minor,Theft,Yes,Yes,TN,Agent,Closed,0
+18,,31,83184.59,0,6.0,Minor,Collision,Yes,Yes,MH,Agent,Closed,1
+42,41385.55,126,1000.0,1,5.0,Minor,Collision,,Yes,DL,Branch,Closed,0
+65,69970.94,13,1000.0,0,0.0,Minor,Collision,Yes,No,TN,Branch,Closed,0
+58,13676.16,94,90823.43,0,,Minor,Collision,Yes,Yes,KA,Agent,Closed,0
+66,38888.15,132,68887.18,0,4.0,Minor,Natural Disaster,Yes,No,TS,Branch,Closed,0
+41,25877.72,171,35237.42,1,,Minor,Collision,No,No,DL,Agent,Closed,0
+39,41928.83,52,,0,12.0,Minor,Collision,No,No,KA,Online,Under Review,0
+58,35558.69,2,90180.91,1,1.0,Major,Theft,No,No,TS,Agent,Under Review,1
+26,44142.26,131,127498.71,1,9.0,Minor,Natural Disaster,No,No,DL,Agent,Open,1
+31,49106.08,1,91147.1,3,10.0,Minor,Fire,Yes,Yes,KA,Agent,Closed,0
+52,37309.05,12,,0,12.0,Minor,,No,No,TS,Online,Closed,1
+56,48584.63,179,85359.73,0,8.0,Major,Natural Disaster,Yes,Yes,KA,Agent,Closed,0
+24,6868.43,156,,1,8.0,Minor,Theft,No,Yes,TN,Online,Closed,0
+46,54085.43,128,132894.05,2,12.0,Minor,Natural Disaster,Yes,Yes,AP,Online,Closed,1
+38,39500.75,151,40970.16,1,13.0,Major,Collision,Yes,No,TN,Agent,Closed,0
+46,47934.12,14,211650.14,1,3.0,Major,Fire,No,Yes,KA,Branch,Closed,1
+72,20361.49,17,101886.59,2,12.0,Minor,Natural Disaster,No,No,MH,Agent,Closed,1
+22,25030.76,55,102137.32,1,7.0,Minor,Natural Disaster,No,No,TN,Agent,Closed,0
+74,36751.26,5,108629.32,0,1.0,Minor,Collision,Yes,No,DL,Agent,Closed,1
+43,34795.55,160,169471.14,3,9.0,Minor,Fire,Yes,Yes,TN,Agent,Closed,0
+62,38396.82,11,120662.83,1,15.0,Major,Collision,Yes,No,TS,Agent,Closed,0
+42,48014.18,98,12772.48,0,2.0,Minor,Theft,Yes,No,MH,Online,Closed,0
+35,13817.36,154,148156.17,1,0.0,Minor,Collision,Yes,No,AP,Online,Open,0
+61,46685.83,133,69659.65,1,14.0,Minor,Theft,Yes,No,AP,Agent,Closed,1
+57,35099.38,43,89821.98,0,9.0,Minor,Theft,No,No,MH,Agent,Closed,0
+26,32554.62,85,27433.57,4,3.0,Minor,Collision,Yes,No,KA,Branch,Under Review,0
+58,17346.62,99,108679.09,1,12.0,Minor,Collision,No,No,MH,Agent,Closed,1
+60,41036.58,139,55688.16,1,6.0,Minor,Collision,No,Yes,MH,Online,Open,0
+40,6030.71,77,89507.63,1,5.0,Minor,,No,Yes,MH,Branch,Open,0
+70,42780.73,52,72215.54,3,4.0,Minor,Theft,Yes,Yes,AP,Agent,Open,0
+54,17094.73,144,171625.58,1,9.0,Minor,Fire,Yes,Yes,AP,Online,Closed,1
+37,35641.49,160,174201.71,1,2.0,Minor,Collision,Yes,Yes,TS,Branch,Under Review,1
+18,33569.97,89,87093.09,0,5.0,Minor,Fire,No,Yes,TS,Online,Closed,1
+56,49034.46,6,87879.0,1,4.0,Major,Theft,,No,DL,Branch,Under Review,0
+29,32856.14,91,68195.07,1,0.0,Total Loss,Collision,Yes,No,DL,Agent,Open,0
+61,26670.34,161,134770.28,3,12.0,Total Loss,Collision,No,No,KA,Online,Closed,0
+47,28920.77,179,684646.72,1,0.0,Minor,Collision,No,No,KA,Agent,Under Review,0
+44,50274.59,73,66039.82,0,15.0,Minor,,No,No,DL,Agent,Closed,0
+27,41435.56,28,129036.68,0,1.0,Minor,Collision,,Yes,AP,Branch,Under Review,0
+58,30372.44,103,60776.54,1,5.0,Minor,Collision,No,No,TS,Agent,Closed,0
+27,32162.64,150,83301.02,1,1.0,Minor,Collision,Yes,Yes,KA,Branch,Closed,0
+41,16193.87,171,13841.01,1,5.0,Minor,Collision,Yes,No,KA,Online,Closed,0
+65,39661.69,10,116688.57,0,9.0,Minor,Collision,No,No,AP,Branch,Closed,1
+70,13882.21,53,172339.01,1,1.0,Minor,Fire,No,No,MH,Branch,Under Review,1
+74,44021.56,86,117455.14,1,8.0,Minor,Collision,,Yes,MH,Online,Closed,0
+72,36543.46,18,150780.96,1,,Minor,Collision,Yes,No,DL,Branch,Open,1
+49,63643.42,160,46925.4,0,7.0,Minor,Theft,Yes,Yes,TN,Online,Closed,0
+29,21798.37,21,95634.59,0,1.0,Major,Collision,No,Yes,TN,Online,Closed,0
+65,33768.05,120,42557.8,1,11.0,Minor,Collision,No,Yes,TS,Online,Under Review,0
+63,56579.45,166,74750.55,1,2.0,Minor,Collision,Yes,Yes,TS,Agent,Under Review,0
+74,49296.68,124,119749.52,1,0.0,Minor,Collision,Yes,No,KA,Agent,Closed,1
+55,26645.46,138,89581.93,2,6.0,Minor,Theft,No,No,AP,Agent,Closed,1
+26,37687.61,48,21431.15,0,4.0,Minor,Collision,No,Yes,DL,Agent,Under Review,1
+46,35023.99,149,25823.69,3,0.0,Minor,Collision,Yes,No,KA,Agent,Closed,0
+43,38383.47,76,22847.62,1,12.0,Total Loss,Theft,,No,MH,Online,Closed,0
+66,26615.83,12,107115.37,0,9.0,Minor,Natural Disaster,No,No,AP,Online,Under Review,0
+40,33928.16,66,177875.25,2,14.0,Minor,Collision,,No,TS,Online,Open,0
+36,15823.37,63,,1,7.0,Minor,Collision,Yes,No,TS,Branch,Under Review,1
+22,36621.48,94,,1,7.0,Total Loss,Collision,No,No,MH,Branch,Closed,0
+65,40400.25,48,148948.42,0,13.0,Minor,Theft,Yes,No,TS,Branch,Under Review,0
+61,32270.97,84,127138.02,2,1.0,Total Loss,Fire,No,No,KA,Online,Closed,1
+20,,78,15461.5,0,5.0,Minor,Theft,No,Yes,TN,Agent,Closed,0
+42,46862.38,59,71355.93,4,12.0,Minor,Collision,Yes,No,DL,Branch,Closed,0
+45,39374.3,126,,4,4.0,Major,Collision,Yes,Yes,KA,Agent,Open,1
+44,26287.82,55,109769.51,0,14.0,Minor,Fire,,No,MH,Agent,Closed,0
+70,31632.79,138,26090.72,1,4.0,Minor,Collision,Yes,Yes,TS,Agent,Under Review,0
+26,16991.97,46,112483.4,0,6.0,Total Loss,Natural Disaster,Yes,Yes,KA,Online,Under Review,1
+35,22695.08,156,1000.0,2,14.0,Minor,,Yes,No,KA,Online,Under Review,0
+28,28546.26,66,74973.0,4,3.0,Minor,Collision,Yes,No,DL,Agent,Closed,0
+31,49741.05,8,136208.05,1,15.0,Major,Collision,No,Yes,KA,Online,Closed,0
+69,27325.96,27,85827.74,0,0.0,Major,Collision,No,Yes,KA,Agent,Closed,0
+71,42682.56,146,62547.81,0,4.0,Total Loss,Fire,No,No,KA,Agent,Closed,0
+20,28540.21,157,125020.58,5,9.0,Major,Collision,Yes,No,TS,Agent,Closed,0
+54,37975.37,39,684646.72,3,9.0,Minor,Theft,Yes,No,DL,Agent,Open,0
+31,33303.25,109,,0,14.0,Major,Theft,No,Yes,TN,Online,Open,1
+28,45476.68,104,124345.41,1,15.0,Minor,Natural Disaster,,No,MH,Agent,Closed,1
+34,28582.26,25,133661.87,1,10.0,Minor,Theft,No,No,MH,Agent,Closed,0
+29,16129.66,82,117980.89,0,10.0,Minor,Natural Disaster,Yes,Yes,TN,Agent,Closed,0
+45,,125,,0,5.0,Major,Natural Disaster,,No,KA,Online,Closed,1
+74,28617.47,175,89027.9,3,,Minor,Collision,No,Yes,AP,Branch,Under Review,1
+51,20011.28,153,,0,10.0,Major,Natural Disaster,Yes,No,KA,Online,Under Review,1
+59,39922.54,18,30443.43,1,0.0,Minor,Natural Disaster,Yes,No,KA,Online,Closed,0
+46,29410.78,43,42010.98,0,13.0,Minor,Collision,Yes,Yes,AP,Branch,Under Review,0
+18,63495.28,79,72309.35,3,,Minor,Theft,Yes,No,MH,Agent,Under Review,0
+22,14147.42,28,95865.35,1,7.0,Minor,Collision,Yes,No,DL,Agent,Closed,1
+33,,103,149836.57,0,7.0,Minor,Theft,No,No,TS,Online,Open,0
+31,21464.56,2,83119.12,1,13.0,Minor,Collision,Yes,No,TN,Agent,Closed,0
+65,29079.18,21,130156.43,2,4.0,Minor,Fire,No,Yes,TN,Agent,Open,0
+66,36697.03,9,133569.2,0,6.0,Minor,Collision,Yes,Yes,TS,Agent,Closed,0
+66,7095.54,54,74584.89,0,0.0,Minor,Theft,Yes,No,TN,Agent,Closed,0
+54,37841.91,138,111761.06,0,5.0,Minor,Collision,Yes,Yes,TS,Online,Under Review,1
+49,57834.89,32,74041.24,3,1.0,Minor,Theft,No,Yes,MH,Agent,Closed,1
+55,209300.39999999997,178,144496.12,1,9.0,Minor,Collision,No,No,DL,Agent,Closed,1
+41,38117.69,49,,1,14.0,Minor,Theft,No,Yes,KA,Branch,Under Review,1
+56,47299.06,9,31428.23,2,7.0,Minor,Collision,Yes,No,TN,Online,Under Review,0
+63,,61,92268.61,0,14.0,Minor,Collision,No,No,TN,Agent,Closed,0
+61,28028.48,135,159165.05,0,15.0,Minor,,,No,TS,Agent,Under Review,1
+52,7691.16,20,76844.6,1,,Minor,Natural Disaster,No,Yes,TN,Agent,Under Review,0
+21,42691.89,13,105147.18,0,8.0,Minor,Collision,Yes,No,DL,Agent,Closed,1
+59,33641.98,153,109564.55,0,8.0,Minor,Theft,No,No,DL,Agent,Under Review,1
+38,22847.79,107,38351.97,2,6.0,Minor,Collision,Yes,No,TN,Agent,Open,0
+60,36519.16,62,107981.86,1,13.0,Minor,Theft,No,No,AP,Branch,Closed,0
+48,27995.84,137,22277.42,1,6.0,Major,Collision,Yes,No,AP,Branch,Closed,0
+68,28658.89,152,56846.92,0,0.0,Minor,Collision,Yes,Yes,KA,Branch,Open,0
+37,42275.49,65,133407.53,1,8.0,Minor,Collision,Yes,Yes,DL,Online,Open,0
+71,18939.41,102,101054.03,0,3.0,Major,Collision,No,No,MH,Online,Open,0
+66,47567.78,2,71298.5,2,5.0,Minor,Collision,Yes,Yes,TN,Online,Closed,0
+36,18227.77,56,105090.75,1,8.0,Minor,Collision,Yes,No,TS,Branch,Open,1
+45,27047.58,108,82295.85,0,11.0,Major,Collision,Yes,No,AP,Online,Closed,0
+48,58075.35,36,85566.03,0,4.0,Minor,Natural Disaster,No,Yes,TN,Online,Under Review,0
+61,48528.26,179,,3,6.0,Major,Collision,Yes,No,TN,Branch,Closed,0
+57,36171.25,175,52268.45,0,1.0,Minor,Natural Disaster,No,No,KA,Online,Closed,0
+66,23713.64,47,86815.14,2,6.0,Minor,Collision,Yes,Yes,MH,Agent,Open,0
+39,28648.73,72,70947.93,1,9.0,Minor,Collision,No,No,TS,Agent,Under Review,0
+46,35879.3,35,13647.85,3,9.0,Minor,Collision,No,No,DL,Agent,Open,0
+42,35450.28,91,,1,4.0,Total Loss,Collision,No,No,KA,Agent,Closed,0
+69,33909.55,23,155569.29,1,0.0,Minor,,No,No,TS,Agent,Closed,1
+35,34630.01,71,102312.55,0,9.0,Minor,Natural Disaster,Yes,No,TS,Agent,Under Review,1
+51,32427.5,100,25438.53,1,10.0,Minor,Theft,Yes,No,TS,Agent,Under Review,0
+24,17696.26,111,15684.05,2,1.0,Minor,Theft,No,Yes,DL,Branch,Under Review,0
+66,28801.87,108,79952.62,1,8.0,Minor,Collision,Yes,Yes,AP,Agent,Closed,0
+39,45975.49,40,155253.39,1,1.0,Major,Collision,Yes,No,KA,Agent,Closed,1
+37,18579.99,143,,0,7.0,Minor,Theft,No,No,KA,Agent,Closed,0
+51,32725.33,125,143814.98,1,10.0,Major,Collision,Yes,No,AP,Agent,Open,1
+46,25162.95,136,100836.88,1,11.0,Minor,Collision,Yes,No,TN,Online,Closed,0
+66,36336.21,85,106206.27,1,11.0,Minor,Collision,No,No,KA,Online,Under Review,1
+48,30336.4,161,24892.58,0,12.0,Minor,Collision,Yes,No,KA,Agent,Under Review,1
+47,52728.72,71,127188.53,1,3.0,Minor,Theft,Yes,No,TN,Online,Closed,0
+23,41079.0,146,69928.06,0,13.0,Minor,Collision,Yes,Yes,KA,Agent,Closed,0
+19,19258.36,37,123839.16,2,5.0,Minor,Collision,Yes,No,AP,Online,Closed,0
+40,43054.74,45,48362.35,1,5.0,Major,Natural Disaster,No,No,TS,Branch,Closed,0
+74,25704.18,95,92967.22,1,12.0,Major,Natural Disaster,No,Yes,TN,Branch,Closed,1
+70,28076.04,101,100840.13,0,5.0,Major,Collision,,Yes,KA,Agent,Closed,0
+53,38765.83,135,78068.5,1,1.0,Total Loss,Collision,Yes,Yes,TS,Online,Open,1
+53,29099.03,54,103204.53,0,11.0,Major,Fire,Yes,No,KA,Branch,Open,0
+40,45714.27,158,73012.13,0,10.0,Minor,Collision,Yes,No,MH,Branch,Closed,0
+28,25705.88,60,55792.31,2,9.0,Minor,Collision,No,No,AP,Agent,Closed,0
+18,27572.64,97,157246.75,1,2.0,Major,Collision,No,No,AP,Agent,Closed,1
+37,27123.55,168,132202.88,4,10.0,Major,Collision,Yes,Yes,TN,Agent,Closed,0
+36,28212.34,98,50761.09,0,,Total Loss,Natural Disaster,No,No,TN,Agent,Closed,0
+28,48190.3,123,110579.99,1,8.0,Major,Fire,No,No,KA,Online,Under Review,0
+32,42545.56,164,51579.45,1,,Minor,Natural Disaster,Yes,No,TS,Agent,Closed,0
+19,55519.33,176,31689.19,0,12.0,Total Loss,Fire,No,No,KA,Agent,Closed,1
+52,62211.73,90,131521.42,3,15.0,Total Loss,Theft,No,Yes,MH,Branch,Closed,1
+70,22631.4,76,8315.52,3,3.0,Minor,Fire,Yes,Yes,TN,Online,Closed,0
+57,35845.03,36,126708.52,1,1.0,Major,Theft,Yes,Yes,TS,Branch,Closed,1
+43,,97,73627.5,2,8.0,Minor,Collision,No,No,TS,Branch,Under Review,0
+41,25668.73,166,75480.4,1,15.0,Total Loss,Collision,No,Yes,TS,Branch,Under Review,1
+35,27439.01,88,103438.8,2,2.0,Minor,Collision,Yes,No,MH,Online,Closed,1
+26,22314.14,63,,1,7.0,Major,Collision,Yes,No,TS,Agent,Under Review,0
+52,22377.35,20,47814.56,1,6.0,Minor,Collision,No,No,DL,Agent,Open,0
+50,33268.59,71,117297.65,2,5.0,Minor,Collision,Yes,Yes,TN,Branch,Closed,0
+18,20399.38,43,90101.67,0,10.0,Minor,Theft,Yes,No,MH,Agent,Closed,0
+41,45105.52,176,28477.53,2,4.0,Minor,Collision,Yes,No,AP,Agent,Closed,0
+33,23986.96,95,77355.65,3,7.0,Minor,Collision,No,No,TS,Online,Closed,0
+27,68714.83,25,147157.56,0,13.0,Total Loss,Collision,No,Yes,AP,Agent,Closed,0
+58,29583.39,13,160446.77,1,6.0,Minor,Collision,No,No,DL,Agent,Closed,0
+47,35864.21,154,117280.68,2,0.0,Major,,Yes,Yes,TN,Online,Under Review,0
+54,19455.91,168,31434.54,2,14.0,Minor,Collision,Yes,Yes,TS,Agent,Closed,0
+58,55473.1,138,107077.31,1,4.0,Minor,,No,No,KA,Online,Under Review,1
+73,48434.01,23,123288.74,0,12.0,Major,Collision,Yes,Yes,TS,Agent,Under Review,1
+63,38562.99,18,117656.86,0,12.0,Minor,Fire,Yes,Yes,KA,Online,Under Review,1
+53,18838.37,36,120322.94,1,8.0,Minor,Theft,No,No,AP,Agent,Closed,0
